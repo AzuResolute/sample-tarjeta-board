@@ -39,6 +39,19 @@ const AuthForm = props => {
         </div>
         {error && error.response && <div> {error.response.data} </div>}
       </form>
+      <div>
+        <h4>For demonstration purposes, please use the following:</h4>
+        <table className="blueTable">
+          <tr>
+            <td>Username:</td>
+            <td>test@test.com</td>
+          </tr>
+          <tr>
+            <td>Password:</td>
+            <td>secret (this is also the secretary password)</td>
+          </tr>
+        </table>
+      </div>
     </div>
   )
 }
