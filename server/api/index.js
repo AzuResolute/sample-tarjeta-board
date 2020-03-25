@@ -19,6 +19,8 @@ router.use('/member', require('./member'))
 router.use('/congregation', require('./local'))
 router.use('/reporting', require('./reporting'))
 
+router.use('/admin', require('./admin'))
+
 router.use((req, res, next) => {
   const error = new Error('Not Found')
   error.status = 404

@@ -88,7 +88,7 @@ class Navbar extends Component {
       <Initialize />
     ) : (
       <div>
-        <NavBarComp bg="dark" variant="dark">
+        <NavBarComp bg="dark" variant="dark" className="position-sticky">
           <Nav
             className="d-flex justify-content-center flex-wrap w-100"
             activeKey="/home"
