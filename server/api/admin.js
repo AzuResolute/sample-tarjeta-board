@@ -1,5 +1,4 @@
 const router = require('express').Router()
-const {Attendance} = require('../db/models')
 const {commandAlpha, commandBeta} = require('../../script/initLoad')
 const {admin} = require('../../secrets')
 
