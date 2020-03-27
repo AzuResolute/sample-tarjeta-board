@@ -164,7 +164,6 @@ router.get('/local/:localId/ext/week/:weekNumber', async (req, res, next) => {
               include: [
                 {
                   model: WorshipService
-                  // include: [Attendance]
                 }
               ]
             }
@@ -178,7 +177,6 @@ router.get('/local/:localId/ext/week/:weekNumber', async (req, res, next) => {
           include: [
             {
               model: WorshipService
-              // include: [Attendance]
             }
           ]
         }

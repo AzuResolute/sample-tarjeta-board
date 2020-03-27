@@ -55,12 +55,22 @@ router.post('/save/:user', async (req, res, next) => {
     const attendees = req.body
     const {user} = req.params
     await attendees.forEach(async a => {
-      const {hasAttended} = a
+      const {hasAttended, worshipserviceId, memberId} = a
+      const memberKeys = Object.keys(a).filter(k => k !== 'hasAttended')
       const attendance = await Attendance.findOrBuild({
-        where: a
+        where: {
+          worshipserviceId,
+          memberId
+        }
       })
-      if (hasAttended) {
+
+      memberKeys.forEach(k => {
+        attendance[0][k] = attendance[0][k] ? attendance[0][k] : a[k]
+      })
+
+      if (hasAttended && !attendance[0].hasAttended) {
         attendance[0].hasAttended = hasAttended
+
         attendance[0].notes = `${user} on ${new Date(
           Date.now()
         ).toLocaleString()}`

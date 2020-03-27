@@ -60,20 +60,20 @@ class WorshipServiceForm extends Component {
         serviceType
       }
 
-      const {data} = await axios.get(
-        `/api/ws/${selectedLocal}/${selectedWeekNumber}/${serviceType}/${selectedDateTime}`
-      )
+      // const {data} = await axios.get(
+      //   `/api/ws/${selectedLocal}/${selectedWeekNumber}/${serviceType}/${selectedDateTime}`
+      // )
 
-      let serviceAttendanceExists = !!data
-      if (serviceAttendanceExists) {
-        serviceAttendanceExists = !(data.attendances.length === 0)
-      }
+      // let serviceAttendanceExists = !!data
+      // if (serviceAttendanceExists) {
+      //   serviceAttendanceExists = !(data.attendances.length === 0)
+      // }
 
-      if (serviceAttendanceExists) {
-        alertify.error('An attendance for this service already exists')
-      } else {
-        await this.props.fetchCreateReportingPeriod(dataToSend)
-      }
+      // if (serviceAttendanceExists) {
+      //   alertify.error('An attendance for this service already exists')
+      // } else {
+      await this.props.fetchCreateReportingPeriod(dataToSend)
+      // }
     }
   }
 
