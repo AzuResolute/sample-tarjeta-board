@@ -72,8 +72,10 @@ router.post('/save/:user', async (req, res, next) => {
         attendance[0].hasAttended = hasAttended
 
         attendance[0].notes = `${user} on ${new Date(
-          Date.now()
+          new Date(Date.now()).getTime() -
+            new Date(Date.now()).getTimezoneOffset() * 60000
         ).toLocaleString()}`
+        // The date will be 3 or 4 hours behind on testing, but production will display the correct date
       }
       await attendance[0].save()
     })
