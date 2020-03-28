@@ -3,9 +3,10 @@ import {NavDropdown} from 'react-bootstrap'
 import {clearSessionThunk} from '../../store'
 import {connect} from 'react-redux'
 import BoardOptionsNav from './BoardOptionsNav'
+import Confirm from '../misc/Confirm'
 import axios from 'axios'
 import alertify from 'alertifyjs'
-import Confirm from '../misc/Confirm'
+import moment from 'moment-timezone'
 
 class BoardNav extends Component {
   constructor(props) {
@@ -30,7 +31,10 @@ class BoardNav extends Component {
       cfo: m.cfo,
       officer: m.officer,
       gender: m.gender,
-      hasAttended: m.hasAttended
+      hasAttended: m.hasAttended,
+      dateTimeNow: moment()
+        .tz('America/New_York')
+        .format('MMMM Do YYYY, h:mm:ss a')
     }))
     const {status} = await axios.post(
       `/api/attendance/save/${user}`,
