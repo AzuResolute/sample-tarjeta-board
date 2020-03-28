@@ -1,5 +1,6 @@
 const router = require('express').Router()
 const {Attendance} = require('../db/models')
+const moment = require('moment')
 
 router.get('/:id', async (req, res, next) => {
   try {
@@ -71,10 +72,9 @@ router.post('/save/:user', async (req, res, next) => {
       if (hasAttended && !attendance[0].hasAttended) {
         attendance[0].hasAttended = hasAttended
 
-        attendance[0].notes = `${user} on ${new Date(
-          new Date(Date.now()).getTime() -
-            new Date(Date.now()).getTimezoneOffset() * 60000
-        ).toLocaleString()}`
+        attendance[0].notes = `${user} on ${moment().format(
+          'MMMM Do YYYY, h:mm:ss a'
+        )}`
         // The date will be 3 or 4 hours behind on testing, but production will display the correct date
       }
       await attendance[0].save()
