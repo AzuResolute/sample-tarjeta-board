@@ -22,7 +22,7 @@ class AdHocReportPane extends Component {
       <td
         className={`${!service.hasAttended ? 'table-danger' : 'table-success'}`}
       >
-        {service.hasAttended ? service.notes || 'YES' : 'NO'}
+        {service.hasAttended ? 'YES' : 'NO'}
       </td>
     )
   }
@@ -49,9 +49,7 @@ class AdHocReportPane extends Component {
             >
               {!memberAttendance
                 ? 'N/A'
-                : memberAttendance.hasAttended
-                  ? memberAttendance.notes || 'YES'
-                  : 'NO'}
+                : memberAttendance.hasAttended ? 'YES' : 'NO'}
             </td>
           )
         })}
