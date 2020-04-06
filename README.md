@@ -1,5 +1,5 @@
 # Tarjeta Board
 
-This application will be utilized in place of the physical boards that are used to take worship service attendance.
+The is the test environment for the tarjeta board being utilized by a church who commissioned this application.
 
-Data will (obviously) be removed in order to protect the members' identity.
+Note: All of the attendee names are fictional in this environment.
