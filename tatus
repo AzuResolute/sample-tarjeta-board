@@ -1,0 +1,2964 @@
+[33mcommit 983cae10875154461aae98f29c202f12c2103c5b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mgitorigin/master[m[33m)[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sat May 2 16:37:38 2020 -0400
+
+    Clean up before creating replica test server
+
+[33mcommit 67e37e9233118a8d6d86e6445ac5f0a167ca44c3[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri May 1 18:14:02 2020 -0400
+
+    Added options for Excel Download
+
+[33mcommit ed6a9c3b2c107bd32c713d094cbb68b85bf3411a[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri May 1 16:18:50 2020 -0400
+
+    Completed MVP of AdHoc Report Excel download
+
+[33mcommit be041d58e34e0a186ebaf6e5c7a0c0f07c913ec2[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri May 1 15:56:00 2020 -0400
+
+    Completed MVP of adhoc tableizer
+
+[33mcommit e141506f74ddc9b17e2beb4b9541907bd967925c[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri May 1 12:23:06 2020 -0400
+
+    Will utilize tableizer for adhoc report pane
+
+[33mcommit edc6dcfcf68cbe465e93c1761fbb47cf810b1a87[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri May 1 12:13:39 2020 -0400
+
+    Successfully Set Up TableizeData class for AdHoc Reporting - To loosely couple reporting functionality from ui and to act as data parser for excel report
+
+[33mcommit 9abd769b0aa35193bc7003ebcef08aa8a718c3d6[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sun Apr 5 16:12:00 2020 -0400
+
+    Adjusting Ad Hoc Reporting - From notes to hasAttended
+
+[33mcommit f51934b11c3168528dc4d80c1650d815ea79da1c[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Thu Apr 2 18:14:24 2020 -0400
+
+    Planning
+
+[33mcommit b3d42f058e3f321e09eafb374511140c29fd0248[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Wed Apr 1 22:48:29 2020 -0400
+
+    Planning r-102 and excel exports
+
+[33mcommit 9ab33fad48acbfdb50f5c1f2589e5e9d69093f60[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Mar 27 22:13:45 2020 -0400
+
+    AddingMoment-Timezone
+
+[33mcommit 0651cf01cbb8ca352c8d5a137e1b32f0d553b717[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Mar 27 22:02:41 2020 -0400
+
+    Added Momentjs
+
+[33mcommit 763838cf5a973d5724cdb9621edd0e38e201466f[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Mar 27 21:23:23 2020 -0400
+
+    Using Moment to deal with Attendance Timezones
+
+[33mcommit c9a3fef682e29d8411186f2c30d4018459603eb6[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Mar 27 21:01:55 2020 -0400
+
+    Fixed Timezone Bug on Attendance API
+
+[33mcommit 632916324d16db568767adff97d3e77d9080fcb1[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Mar 27 19:10:01 2020 -0400
+
+    Minor Update - Multiple secretaries may edit the same worship service
+
+[33mcommit bad6e18a98d394302eba20acebeebcf8ef856ed5[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Thu Mar 26 17:29:53 2020 -0400
+
+    Fixed Navbab Bug
+
+[33mcommit 1415e271fbce185fab6003d6196647299725e934[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Thu Mar 26 16:49:43 2020 -0400
+
+    Placed Save outside of Secretary Mode
+
+[33mcommit 1dcd4fcaf842477c20ca900889f19f230543e321[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Wed Mar 25 00:27:56 2020 -0400
+
+    Final push
+
+[33mcommit c30bb44e69a8aaafaae04ede5fc64c1ac98b4f3e[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Wed Mar 25 00:21:20 2020 -0400
+
+    Preparing Heroku
+    Update
+
+[33mcommit 09a436b6dfec0d97f8b3f3819bce2ea56b481015[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Tue Mar 24 23:42:26 2020 -0400
+
+    Mpdofied Log in screen
+
+[33mcommit 67ccbf851bc73d346632a928b7c717c9e2d59f07[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Tue Mar 24 23:19:08 2020 -0400
+
+    stones
+
+[33mcommit b74372fa819f99064165c0c946a6700ce9a4be6f[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Mar 23 21:14:10 2020 -0400
+
+    Added functionality
+
+[33mcommit 7654d539b603d6cc1e3ae8b1a0d1d419251b0d0d[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Mar 23 20:58:48 2020 -0400
+
+    Passed Test for Weekly and RP AdHoc Reports
+
+[33mcommit 15cfb6341f5796b7e611ca6e05323d6d5728b3c3[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Mar 23 20:37:23 2020 -0400
+
+    Refactored Adhoc by Week to be less strenuous on the cloud
+
+[33mcommit bf83e4d851f8829da8effd7a05bb83993df548a3[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Mar 23 16:25:53 2020 -0400
+
+    Removing Weekly for stable version
+
+[33mcommit ea8a63a6398062af09b58e4b26e59a6a448ff536[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Mar 23 16:02:56 2020 -0400
+
+    Clean Up and Tests
+
+[33mcommit 24436cb3b819944050edca604dc6338869795aed[m[33m ([m[1;32mRefactorAttendance[m[33m)[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Mar 23 15:58:10 2020 -0400
+
+    Revamping for use
+
+[33mcommit d3260d7e966847f84246d1eb0fc3dedce1b9dd14[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Mar 23 15:50:34 2020 -0400
+
+    Completed Functionality and tests
+
+[33mcommit 89f8fcfcf42c30c4929380ee85bc78aa3b43df38[m[33m ([m[1;31mgitorigin/RefactorAttendance[m[33m)[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Mar 23 14:52:53 2020 -0400
+
+    Created Attendance Edit Form  - Working on functionality
+
+[33mcommit 40b64670a4fca126ca314d5e6972f337c4c8a647[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Mar 23 12:30:45 2020 -0400
+
+    Added Weekly Reporting
+
+[33mcommit e2e725583e9bd07aaa4394d19f976dd3189a232e[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Mar 23 11:26:07 2020 -0400
+
+    Set Up Foundations for Adhoc Reporting by Week Number
+
+[33mcommit cc9c457f112d10bf9743a559803cfb659438206e[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Mar 23 10:39:06 2020 -0400
+
+    Passed Secondary Tests
+
+[33mcommit bb830e9a0165878041f482f46b2d59a1f31fe5c5[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Mar 23 10:13:39 2020 -0400
+
+    Added styling
+
+[33mcommit 9ac6191e79cfc374452c08c09bbe620819bd7763[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Mar 23 09:58:31 2020 -0400
+
+    Added Detail Toggle
+
+[33mcommit 1ef6ae795dec675ded687b1395200a240db63e84[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Mar 23 09:24:05 2020 -0400
+
+    Successfully rendered current and adhoc
+
+[33mcommit 4e54ce44fba35f5dc4c967114ff2979f9d37ee71[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Mar 23 00:42:16 2020 -0400
+
+    Checkpoint - Working toward Current Report
+
+[33mcommit cb535a3d613ed208bff3f5c815e8f2c847484e29[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Mar 23 00:15:12 2020 -0400
+
+    First Test with AdHoc Passes
+
+[33mcommit 0f5f52fee4c67e40e2d418662044eb57e3adaea6[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sun Mar 22 23:30:24 2020 -0400
+
+    Contruction Complete - Testing Run 1
+
+[33mcommit 2dfc69b4d9dced7a95e255c5331959ad667065fa[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sun Mar 22 22:42:15 2020 -0400
+
+    Created Consolidator Function - Aggregate member services per week
+
+[33mcommit 4ae30f9df61297cdbbdc8cd44bc1ec252ddc0374[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sun Mar 22 21:47:48 2020 -0400
+
+    Added Detail Collapse - working on functionality
+
+[33mcommit 9d43b7a561cb0267daf32e8cf3392f6d6edbb0ff[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sun Mar 22 19:53:11 2020 -0400
+
+    Major Update Coming - Preparation of Refactoring Attendance
+
+[33mcommit 0cdb08e2bea51fbdd79461d90d642253b306162a[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sun Mar 22 19:17:38 2020 -0400
+
+    Created Form by Weekly Number
+
+[33mcommit d3b34db0a0f83f27895b36607bcb19759cab49fd[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sun Mar 22 18:14:07 2020 -0400
+
+    Refacctoring Attendance Saving
+
+[33mcommit 3b6847b8ad4f330dcda46fcb427f85ab6c64a34a[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sun Mar 22 17:13:37 2020 -0400
+
+    Completed Dropdown Component Integration
+
+[33mcommit c7371365b50e6fca330afe9f29fe524cbb0d9dc1[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sun Mar 22 10:12:43 2020 -0400
+
+    Completed Dropdown Compoent Integration - Except ServiceTime
+
+[33mcommit f1afe6d47cf8f0d04681d0a455a936a98a68c471[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sat Mar 21 23:55:45 2020 -0400
+
+    First Success of Dropdown Components
+
+[33mcommit a533c12dd56f2c30c922e69d46eb9896d1810353[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sat Mar 21 23:47:42 2020 -0400
+
+    Creation downdown components
+
+[33mcommit 8b75447f73aaec208c119c2bc69d2b86ee05120f[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sat Mar 21 02:44:15 2020 -0400
+
+    Laid foundations for ChangeMember Form component
+
+[33mcommit b2b6935fd43d56db4ac3f173b2511683c7e11602[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Thu Mar 19 23:51:49 2020 -0400
+
+    Setting up for Attendance Modification
+
+[33mcommit 4d91ccaa6f3a30467b8d015493e9cca3421ba621[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Wed Mar 18 13:20:32 2020 -0400
+
+    Clean Up
+
+[33mcommit 421ff6f8017bda1cce4b77acd5883357c6e27b43[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Wed Mar 18 09:21:09 2020 -0400
+
+    Added member properties to attendance - Attendances will reflect the member properties when the attendance was created. Independence from Member Entity. Updating may be tricky though
+
+[33mcommit 6627d9e4d5230457fa5bf48214c0aaf9c0eac942[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Wed Mar 18 08:32:56 2020 -0400
+
+    Implemented Local Access to front-end - Changed Redux to call locals by user access
+
+[33mcommit 1c1a56a406aaa820fad2ca9ab75444000399fa38[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Wed Mar 18 07:57:03 2020 -0400
+
+    Remapping local access - Secretaries access of locals limited for security
+
+[33mcommit 5b4099af0a4c148f8dd4a9124e402f1a4029f1f1[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Wed Mar 18 07:38:57 2020 -0400
+
+    Created Secretary Privileges and Fixed WS Form Bug
+
+[33mcommit 8e9a70edfe1de396a2660ace03842420d623806b[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Tue Mar 17 16:51:45 2020 -0400
+
+    Added Option for Permanent Deletion of Members
+
+[33mcommit 8f405b33e43cac60e17d2f2105d1dab6e4adb09d[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Mar 16 22:51:58 2020 -0400
+
+    Streamlining Security Check
+
+[33mcommit 8e50e5947e6bf5e23e279cf8704762d89653bc0d[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Mar 16 19:57:22 2020 -0400
+
+    Added even more security
+
+[33mcommit 2a7992837275b130bb983e83988c30dad5089aae[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Mar 16 19:36:59 2020 -0400
+
+    Added some security
+
+[33mcommit df981bbd1b34f294733ea47800789984626d18e7[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Mar 16 19:05:07 2020 -0400
+
+    Added GetByLocal and others to member api - Fixed bugs that followed
+
+[33mcommit 2701affe54b38381799f20c95c3e7f31b7aecedd[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Mar 16 00:14:00 2020 -0400
+
+    Streamlining UX
+
+[33mcommit 39c058c894064472b00b015a1701978da81e4806[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sun Mar 15 20:41:25 2020 -0400
+
+    Refactored Loading Component - No more multiple spinning wheels
+
+[33mcommit c42f41b37422595ace342d5987abcc486b149782[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sun Mar 15 20:00:15 2020 -0400
+
+    Set Up Loading Reducer - One source of loading truth
+
+[33mcommit 24773d2b953876c8996101242b7b158d1205d993[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Mar 13 09:26:25 2020 -0400
+
+    Revamped Loading and Initial Components
+
+[33mcommit 6e80879c220c170d9231304f73b71237cac5b942[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Mar 13 09:18:20 2020 -0400
+
+    bug Fixing and Streamlining
+
+[33mcommit 427ff70b59e9a8e95472054826e005921bad7564[m[33m ([m[1;32mOfflineTarjeta[m[33m)[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Thu Mar 12 18:05:48 2020 -0400
+
+    Refresh Reports Upon Member create/update
+
+[33mcommit 5ac6c2a8d27f90ad433a3700a1f136c6d99933c2[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Thu Mar 12 17:20:53 2020 -0400
+
+    Offline Mode Complete
+
+[33mcommit 1c56f2fdbb68c1dcc1f6fd4e839aff5005118ce6[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Thu Mar 12 17:18:08 2020 -0400
+
+    Offline Tarjeta Mode Successful
+
+[33mcommit fa9ce353ab11a1efe655010b839dbc5d45831bf7[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Thu Mar 12 15:59:30 2020 -0400
+
+    Deploying
+
+[33mcommit 07f666d1c263ec942451d28004ef2ee22151dd4a[m[33m ([m[1;32mCardFlip[m[33m)[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Thu Mar 12 15:52:43 2020 -0400
+
+    Completed Flip Functionality
+
+[33mcommit 4f8712f185f395c518dbd2b1c68c860c5c90b2d5[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Wed Mar 11 17:47:30 2020 -0400
+
+    Saving Work before breaking change
+
+[33mcommit 7cc8619ce6556499421ae53f6c9c3c86de30584a[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Wed Mar 11 17:35:07 2020 -0400
+
+    Stashing Security - Working on Card Effect while offline
+
+[33mcommit 3dc1df1d1de4638a27dd3784f581015bac4da70c[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Wed Mar 11 16:19:50 2020 -0400
+
+    Securing Application
+
+[33mcommit 665c33b4a7f663debc4f2f24b2392b32de59f123[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Wed Mar 11 16:00:12 2020 -0400
+
+    Fixed Timezone DST Bug
+
+[33mcommit 6079baa1b63ea2d916e657ae03f5653e9855e33a[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Wed Mar 11 15:31:38 2020 -0400
+
+    timezone day light savings bug discovered
+
+[33mcommit 4db79c67169e54dcb0c366b88e3cd2a772b0f04f[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Wed Mar 11 13:52:58 2020 -0400
+
+    Progress on WS instance protection - Bug exists still
+
+[33mcommit 3af18b1cc5a6c4fa201127fcd0866842fac57299[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Wed Mar 11 12:58:51 2020 -0400
+
+    Fixed Initial Load Bug
+
+[33mcommit a56d34de2a4729bea73be6d03a6885a10fb575ca[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Wed Mar 11 12:00:10 2020 -0400
+
+    Cleaning Up
+
+[33mcommit c66b89f030464a16992ea6be0f90af2ba241a954[m[33m ([m[1;32mMemberInit[m[33m)[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Wed Mar 11 11:54:50 2020 -0400
+
+    Completed MVP - Time for Testing, Bug Finding, and Clean Up
+
+[33mcommit e4f2e2472ca4aa3e2ed2792ba81ea0ab8f841d49[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Tue Mar 10 14:33:17 2020 -0400
+
+    Creating Front-End Create Member
+
+[33mcommit e58fa7a97d5a4e97759f77bbfdc9d84cb718a62a[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Tue Mar 10 14:17:48 2020 -0400
+
+    Add Update and Create Functionality on the backend, with front-end clean up
+
+[33mcommit 05c6abc3db26fbedcc1436298d8dc93e690a4c74[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Tue Mar 10 00:55:45 2020 -0400
+
+    Completed Member Modal - it might have been better to place the inputs directly on the table though..
+
+[33mcommit b861c8085d9e7f8ce159cf9e42bbbe7e4c5031b8[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Mar 9 23:51:32 2020 -0400
+
+    Working onMember Components - Creat and Update Form
+
+[33mcommit 2606fb4f683830ee32b3d16f9cb9c50405328852[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Mar 9 18:42:39 2020 -0400
+
+    Added Member Dashboard
+
+[33mcommit 4122f852c1e867444fa14fe30025a964489796bf[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Mar 9 16:51:08 2020 -0400
+
+    Clean up before Adding Member Components
+
+[33mcommit 9c78d8eeb5cd0b2ad508a9eefce2ae8d04d3fee0[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sun Mar 8 15:45:24 2020 -0400
+
+    Added table property N/A for non-attendance without tagboard
+
+[33mcommit 35d05f5b3e26fd75f7df7065af33c3e32a4acef7[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sun Mar 8 15:37:40 2020 -0400
+
+    Non-Attendance Bug
+
+[33mcommit 575255b15941e4df61b7ad07d96911c71bcf2c8d[m[33m ([m[1;32mWorshipService[m[33m)[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sun Mar 8 15:00:29 2020 -0400
+
+    Completed Refactoring of Reports with Worship Service
+
+[33mcommit c5bcb883d15a1b004d4be884821bd70c3fc372c8[m[33m ([m[1;31mgitorigin/WorshipService[m[33m)[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sun Mar 8 05:31:40 2020 -0400
+
+    Accounting for Daylight Savings Time
+
+[33mcommit c818ad7d17073600bd5f9b5e44b8b2eafded2c35[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sun Mar 8 00:09:43 2020 -0500
+
+    Rewire Progress - Enabled Attendances to be saved as worship service instancecs
+
+[33mcommit 5a53f242c090baa116aa4f761a5bd1ed0584f931[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sat Mar 7 23:34:15 2020 -0500
+
+    Rewiring Take 1 - Ready to test changes
+
+[33mcommit ed88cb25596d61d1db2fdc6c1a333328126e23f6[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sat Mar 7 19:09:44 2020 -0500
+
+    Refactoring Database, Backend, Frontend for WorshipService - CurrentDate will be part of ServiceDate
+
+[33mcommit 68989f85f1209b1659a5eab57e22bdb7e118b667[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sat Mar 7 17:53:34 2020 -0500
+
+    Set Up Heroku Env
+
+[33mcommit fdedf6a7c06f35dfa10db2b7493588fefcecbc04[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sat Mar 7 17:52:43 2020 -0500
+
+    Set Up Heroku Env
+
+[33mcommit 594298ce334dae744739893e4cec9702fea6cd0d[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sat Mar 7 17:48:30 2020 -0500
+
+    Set Up Heroku Env
+
+[33mcommit 2532cf37bd4eed4e90fb43f5adcb3754b030c24e[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sat Mar 7 17:33:07 2020 -0500
+
+    Cleaning up before insertion of new entities
+
+[33mcommit 61b5212fac0eda14be32ecf419dab4c8904153bb[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Mar 6 22:11:42 2020 -0500
+
+    Fixed DateTime Conversion Bug in GetServiceFromScheduleDay function
+
+[33mcommit 32ae0bb20931d96391da36632717f3c15475a65a[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Mar 6 20:41:07 2020 -0500
+
+    Found a major bug - missing reportingPeriod in session
+
+[33mcommit e8d62e6392e8817b6e50f25645fc880c308c13fb[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Mar 6 20:26:41 2020 -0500
+
+    Setting Up for Member Manipulating Components
+
+[33mcommit 8c7d09dc3fba0cc1f840b263d53e0c4059f3d5e0[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Mar 6 19:18:05 2020 -0500
+
+    Fixed Miswording. Save also clears
+
+[33mcommit 76d8a98d2173a271d753abf4afe570ab4eee26c8[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Mar 6 17:55:15 2020 -0500
+
+    Setting Up Heroku
+
+[33mcommit 4f05dc8b4858555d7bcace986ca80e341ad2c343[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Mar 6 17:54:42 2020 -0500
+
+    Setting Up Heroku
+
+[33mcommit 5f0f9313aa1857b90ae1b41e00a84b9970e39b83[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Mar 6 16:48:52 2020 -0500
+
+    Created secretary users - Ready for heroku deployment
+
+[33mcommit 7ce1c029380bffafec2d37afe28704d5ed44298d[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Mar 6 16:33:04 2020 -0500
+
+    Added more member routes for future functionalities
+
+[33mcommit 23c0647e06d629a437b20928869325bc48632247[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Mar 6 14:50:32 2020 -0500
+
+    Added Custom Reporting Period Type
+
+[33mcommit 9c0f19a3cf0e786f56b64926c9003bf9522e8038[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Mar 6 13:16:21 2020 -0500
+
+    Refactoring - Offloading config file
+
+[33mcommit a5314574695b524aa994ac147a4d55836597166d[m[33m ([m[1;31mgitorigin/ClearMode[m[33m)[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Mar 6 12:28:36 2020 -0500
+
+    Completed MVP
+
+[33mcommit 1c06dd08cf9e6815bd7659f50a24a977a10a07a1[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Mar 6 11:17:40 2020 -0500
+
+    Clear Mode Functional - next step: Create board and report renders when reportingid is empty
+
+[33mcommit 99e4cd0ffce5f0e189bab9f22d6c8ede7418337e[m[33m ([m[1;32mreporting-instance[m[33m)[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Mar 6 10:17:44 2020 -0500
+
+    Refactoring Clear Mode - Dangerous!
+
+[33mcommit 56fe95a098de7dae90451fed70346dc52e613f30[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Mar 6 09:30:39 2020 -0500
+
+    Ad Hoc Single Period Reporting Complete
+
+[33mcommit 47170950d0274759894017cecb6158cfe2f241b4[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Mar 6 01:32:16 2020 -0500
+
+    Completed AdHoc Reporting
+
+[33mcommit 764a830abefda97157c342e48f4b48a853555e34[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Thu Mar 5 23:20:23 2020 -0500
+
+    Fixed Attendance Date Bug - Found a reset bug that wipes out reportingReiod redux
+
+[33mcommit 59c76f3d3e3c4a8c74aadc426822bcae7fe7edb8[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Thu Mar 5 22:43:19 2020 -0500
+
+    Refactored Reporting Components - Adding Current AdHoc and Searcheable AdHoc
+
+[33mcommit f606929b5ce4e085d0165cffdb2ef51cfad6a8b9[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Thu Mar 5 19:20:29 2020 -0500
+
+    Completed Saving Function
+
+[33mcommit af56417119648ec072f4d924cf24f4e896853265[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Thu Mar 5 16:43:02 2020 -0500
+
+    Created reporting period create
+
+[33mcommit 6150ad1ba717e7cb1971af9d6dab2bc1a30a794e[m[33m ([m[1;32mPre-Refactoring[m[33m)[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Thu Mar 5 14:32:18 2020 -0500
+
+    Refactoring service entity to attendance
+
+[33mcommit 9d5fe4f874cb01f3434b2cefff2093ee11b7576e[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Thu Mar 5 13:48:17 2020 -0500
+
+    Completed Front-end MVP - Next Step - Integrate Service Saving
+
+[33mcommit ac6339794257fdc3d483bb119229d8d26acec98e[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Thu Mar 5 11:55:31 2020 -0500
+
+    Refactoring front-end to make less API calls
+
+[33mcommit 150272d669a8424fc749ea93e6fde81b43bb086c[m[33m ([m[1;31mgitorigin/Pre-Refactoring[m[33m)[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Thu Mar 5 02:01:39 2020 -0500
+
+    Final cleanup - master needs to be replaced by pre-refactor
+
+[33mcommit e3f4ddba627109ee30933c4ebcc20eaed91db524[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Thu Mar 5 01:51:53 2020 -0500
+
+    Cleaning Up before going to bed
+
+[33mcommit 1c6c01cd91e0c6bf8e2dbdc44d35ccb2332803aa[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Thu Mar 5 01:49:04 2020 -0500
+
+    Completed Create Worship Service Form
+
+[33mcommit d8b667b187de22924908e2e690aef947923e899f[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Wed Mar 4 23:54:07 2020 -0500
+
+    Worship Service Form
+
+[33mcommit 454aabe15955532778cda14a0294bc42a6ea8b4f[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Wed Mar 4 09:01:51 2020 -0500
+
+    Must work on rendering - the form works now
+
+[33mcommit 6ebc41c77b112babf4b456185526ad0bf0cccdd3[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Wed Mar 4 07:27:56 2020 -0500
+
+    Modifying positions of ws form
+
+[33mcommit 089281f98f944177fda39887217d1738a3ce3eb9[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Wed Mar 4 06:58:41 2020 -0500
+
+    Worship Service Forms
+
+[33mcommit 9b7cd62cf8f5125dd656fb54d86922a8d32ae8b5[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Tue Mar 3 17:59:33 2020 -0500
+
+    Attempt 2 at Independence from sampleConfig
+
+[33mcommit 878e76abeae4925c7c6ce3a32529620dde6bc84f[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Tue Mar 3 11:30:05 2020 -0500
+
+    Refactoring Front-end - Adding Initialize Screen
+
+[33mcommit c622f818db628a4f7f5bf18c77ef1c2b58ba8ba0[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Tue Mar 3 10:58:51 2020 -0500
+
+    Added Worship Service Schedules for Manhattan, LIC, and Exts
+
+[33mcommit f9a6257ab04dd535b4f414ffcb45beb0ba30f6f8[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Tue Mar 3 00:48:49 2020 -0500
+
+    Front End Check with Mikee - Reconfigured Table Headers
+
+[33mcommit 0819b1ade5a89414af40d531af968f951f29573a[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Mar 2 22:30:07 2020 -0500
+
+    Fixed Front-end Bug - Reconfiguring Current Reports
+
+[33mcommit 9f58e21db1a100c4e720d18e5a405861667c3b80[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Mar 2 21:37:07 2020 -0500
+
+    Discovered Front-end bug - local vs localId
+
+[33mcommit 6f1519ff3862d552e6e7b0f4034612808a2f4879[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Mar 2 21:23:15 2020 -0500
+
+    Populated Local and Members entities
+
+[33mcommit 525107037e56d984008da7818596afb3b8aa92a2[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Mar 2 12:14:28 2020 -0500
+
+    Created Entities Relationships
+
+[33mcommit e479f075dded93848fd82e3d782654902c5cdd19[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Mar 2 11:40:35 2020 -0500
+
+    Created Entities
+
+[33mcommit c52840d78e58dddbb3d4ce3d1ac7407c9fd766a2[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Mar 2 10:55:13 2020 -0500
+
+    Refactored Front-End to prepare for back-end integration - camelcased all fields
+
+[33mcommit 4ffcede5cafca8d5047eae124c6cbfa639d40ae0[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Mar 2 01:13:03 2020 -0500
+
+    Cleaned up front-end in preparation for back-end
+
+[33mcommit 3ae3642bc33b9b0917a6501888ce2661b4d405b4[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sun Mar 1 22:54:12 2020 -0500
+
+    BANDAID: Dealth with currentDate bug by Object.keys(data.currentDate)[0])
+
+[33mcommit 5f730fbab4d52727797f28af05859bf995a26406[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sun Mar 1 20:57:56 2020 -0500
+
+    Added WorshipService Form - Testing ws datetime indicator
+
+[33mcommit d23d4dd7c686c6f0854aec42fe38df1d5eae6e90[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sun Mar 1 19:38:48 2020 -0500
+
+    Refactoring BoardOptions Component - Preparing for ws datetime indicator
+
+[33mcommit 4d331801e4128f5cfba95869c45481cc1fe1edb4[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sun Mar 1 19:11:34 2020 -0500
+
+    Added Secretary Access Persistence
+
+[33mcommit 877b20530b6e9bade6d6bd66c848825c02daf136[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sun Mar 1 18:31:01 2020 -0500
+
+    Progress within Secretary Mode - Added cache route - persistence is no longer just for ws
+
+[33mcommit 13afa7e6b8ba1db3313f8713f5ce3f622b02b576[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sun Mar 1 18:22:50 2020 -0500
+
+    Progress within Secretary Mode - Must be persistent
+
+[33mcommit 5f953efbe594729719c9719a43f62febefc92352[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sun Mar 1 16:23:26 2020 -0500
+
+    Fixed Grid Alignment - Fits more
+
+[33mcommit c93348983e04ea50e0dc5182608ffa4ee93ff417[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sun Mar 1 14:44:09 2020 -0500
+
+    Refactoring Front-end
+
+[33mcommit ad51c9c949bddf7fb6003d67515211c7223df407[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sun Mar 1 11:07:40 2020 -0500
+
+    Planning Postgres Entities
+
+[33mcommit 4d6033fc230bd1ccd9c5dac7140ce88e5f287bc9[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sun Mar 1 00:22:05 2020 -0500
+
+    Preparing for PostGres
+
+[33mcommit 8483bc01e49d43e3c92bec4c437bec8d0c28e3d3[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sat Feb 29 23:53:51 2020 -0500
+
+    Refactored Cache to include CurrentDate
+
+[33mcommit e9b4d7051f881f48e76bdf0d6e912d1dbdb00b8a[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sat Feb 29 23:16:08 2020 -0500
+
+    Preparing Creation of PostGres Database
+
+[33mcommit 3763c25b892864d454ba280a5b0a787e92270f2f[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sat Feb 29 17:07:25 2020 -0500
+
+    Added Current WS date config
+
+[33mcommit c61611af43557c3f899215face00eb792265985f[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Feb 28 23:54:10 2020 -0500
+
+    Added Time Indicator in NavBar - Currently Hard-coded
+
+[33mcommit 29772e64382a585f118a7fff5a93913fafae82d6[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Feb 28 18:29:40 2020 -0500
+
+    Cleaning Up Front-End - Add Date Indicator and Editor
+
+[33mcommit 55ddb0ac6e3f19c93343f294377f907c6b3b516e[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Feb 28 17:18:05 2020 -0500
+
+    Wow squished the most annoying of bugs - Confirmation Works
+
+[33mcommit 66bc86b4dabe0b99de974973d69000b20e0165f6[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Feb 28 16:52:51 2020 -0500
+
+    Confirmation Bug - o is not a function
+
+[33mcommit 770ad6ccec4975388142c60b1c5f76663231cbb2[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Feb 28 15:04:10 2020 -0500
+
+    Initializing Confirm Integration with CardItem - Confirm when unturning name tag
+
+[33mcommit 26a6cf0bd3a07bbf737f79c29dcd06bdc164bfcc[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Feb 28 10:59:22 2020 -0500
+
+    Finished ConfirmWithPassword Component
+
+[33mcommit 909f311bf337582a5879db2ca5f5fc45212d5ca4[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Feb 28 00:01:14 2020 -0500
+
+    Decoupled Clear Function from Confirm Modal for re-usability
+
+[33mcommit 0ab89d7b89a35092eb8f1e5b7cf58ad5fe901472[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Thu Feb 27 23:54:08 2020 -0500
+
+    MVP for Clearing Function Complete - MVP Board Options Complete
+
+[33mcommit 8d0cd333bbd33e30b574698ea13dbe51934b0c80[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Thu Feb 27 22:37:12 2020 -0500
+
+    Saving incase of fight at pb
+
+[33mcommit 4e8cf01a8da411c12923f50135853cd6529134c5[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Thu Feb 27 20:13:38 2020 -0500
+
+    Saving before trip to pb
+
+[33mcommit f01c46e7f7ddf1f9b8dc4b868e8644994b1ef457[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Thu Feb 27 19:58:17 2020 -0500
+
+    Fixing Nav Link Issue
+
+[33mcommit 41f8aaa83b67ab8b8665f0cd7b3b40c11520cba7[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Thu Feb 27 17:39:19 2020 -0500
+
+    Added Clear Attendance Function
+
+[33mcommit 4d84ad3abda90afe2024c52d5a1ee363b6bc952f[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Thu Feb 27 16:44:33 2020 -0500
+
+    Revamped NavBar
+
+[33mcommit e012212d31c1f696c1d2589bdac4301a70578e6f[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Thu Feb 27 16:11:52 2020 -0500
+
+    Added simple secretary validation and options
+
+[33mcommit 3420fc278a3b41a28d7ddeba2f877d73d735b9a3[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Wed Feb 26 18:29:57 2020 -0500
+
+    Completed MVP Reporting
+
+[33mcommit 0ca20447b06ee2ed55ee87b60865707d413b5796[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Wed Feb 26 18:11:03 2020 -0500
+
+    initializing Reporting Comp
+
+[33mcommit 3bb5914f36519048b6d2ebace4a43fbe8de213b4[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Wed Feb 26 17:50:14 2020 -0500
+
+    initializing Reporting Tab
+
+[33mcommit 83a4ba81f5783d05a12339771d3ab3fcfb755d94[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Tue Feb 25 22:22:08 2020 -0500
+
+    check in during vacation
+
+[33mcommit 0f4dc9200b1cad1b0db3edd500ef9604372c58ea[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Feb 24 20:57:07 2020 -0500
+
+    Cleanup during Vacation
+
+[33mcommit 9c08be4135fb1e36d636ed50132eed2a4e311152[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Feb 24 20:55:00 2020 -0500
+
+    Cleanup during Vacation
+
+[33mcommit fa2be553823d6ade54f4dcf69653fd3d166d456b[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sun Feb 23 15:22:15 2020 -0500
+
+    Persistence via Sessions
+
+[33mcommit ba2983c68551dea562bf7c97c6c1044c9ab4ad2b[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sat Feb 22 06:51:30 2020 -0500
+
+    Initiating persistent ws
+
+[33mcommit 2f8e74bb2fca1c8755f39dac3b75e0ddec0c52e2[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Feb 21 21:02:31 2020 -0500
+
+    Completed MVP of Front-end
+
+[33mcommit 064432238df761d1b0e67ffc80891fc0bed7bbf2[m[33m ([m[1;31mgitorigin/OrderSpecify[m[33m)[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Feb 21 15:19:05 2020 -0500
+
+    Simple ReadMe
+
+[33mcommit e0b415641ac6a925ae434e48c8fe2d40d5a17abb[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Feb 21 15:15:55 2020 -0500
+
+    Removing Sensitive Data
+
+[33mcommit 825acba3c8a48db36a603467e5203db5e15a357e[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Feb 21 15:15:04 2020 -0500
+
+    Adding Redux - Board
+
+[33mcommit ec00c37daf33999081341603ee1f3173dc9eb2e9[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Feb 21 15:04:36 2020 -0500
+
+    Adding Redux; Cleaning Front-end
+
+[33mcommit 4f4637c11b265f9e9da98c5f9c8da3168aba35ed[m[33m ([m[1;31mtarjeta/OrderSpecify[m[33m)[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Dec 23 14:18:14 2019 -0500
+
+    Monday Init Commit
+
+[33mcommit 4e4a97cb078f448aff00ee4ccb417a74fe378d8f[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Dec 20 18:55:46 2019 -0500
+
+    Experiment - Downward
+
+[33mcommit dbd7e150838beea30435aedb4ee71354702b3b1c[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Fri Dec 20 00:04:54 2019 -0500
+
+    Completed Prototype of Looks with Sample Data
+
+[33mcommit 16650200b0ddf6c41c57ceaa2201b390c5698de0[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Thu Dec 19 18:43:13 2019 -0500
+
+    Filling Up Tarjeta with Sample Data
+
+[33mcommit 048ec388214a3d4aecc5611d7d3d7e6623498f15[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Thu Dec 19 09:01:57 2019 -0500
+
+    Created Bootstrap Board Grid - Max 20
+
+[33mcommit 3cf6ca1fef8f72f159866db82ab465eab83c94cb[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Wed Dec 18 14:52:33 2019 -0500
+
+    Switching from Semantic to Bootstrap
+
+[33mcommit 2b6e69977e922dd8b685a55ec3aa488fdb49f35b[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Mon Dec 16 22:01:13 2019 -0500
+
+    Board Set Up
+
+[33mcommit ae9b943198e0f65dc536292255fbca3d0f41dc0b[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: ed27ccb 13cec7f
+Author: Roger Lester Palabasan <azuresolute@gmail.com>
+Date:   Mon Dec 16 00:54:27 2019 +0000
+
+    Merged in TB-2 (pull request #1)
+    
+    Test Pull Request
+
+[33mcommit 13cec7f9be6c2eca1a7bdb461e873a34270a7129[m[33m ([m[1;31morigin/TB-2[m[33m, [m[1;32mTB-2[m[33m)[m
+Author: AzuResolute <roger.palabasan@baruchmail.cuny.edu>
+Date:   Sun Dec 15 19:50:06 2019 -0500
+
+    NavBar Name Change
+
+[33mcommit ed27ccb20ee1d10d35ed0264d74445b43188343c[m
+Merge: 878e5dd 344006f
+Author: Ben Rodri <ben@b17z.io>
+Date:   Tue Oct 1 10:22:18 2019 -0400
+
+    Merge pull request #190 from LuigiLegion/update-google-strategy
+    
+    feat: added access to google oauth users profile picture, first name,…
+
+[33mcommit 344006fc607a81974053e4372af5c593b831c8f3[m
+Merge: 7056c6c 878e5dd
+Author: Tal Luigi <42426999+LuigiLegion@users.noreply.github.com>
+Date:   Tue Sep 3 21:45:42 2019 -0400
+
+    Merge branch 'master' into update-google-strategy
+
+[33mcommit 7056c6cfc734fbc0c4a690e6c0ecbebd1c5de5c0[m
+Author: Tal Luigi <luigi.t.agr@gmail.com>
+Date:   Tue Sep 3 21:44:09 2019 -0400
+
+    fix: reverted package-lock.json changes
+
+[33mcommit 3235a0013d46b4bb08fe4d720a08a21b63d37b96[m
+Author: Tal Luigi <luigi.t.agr@gmail.com>
+Date:   Sun Sep 1 10:29:02 2019 -0400
+
+    feat: added access to google oauth users profile picture, first name, and last name in google strategy
+
+[33mcommit 878e5dd47447ddce6a3f78210bac7f246da29368[m
+Author: Dakota Blair <dakota.blair@fullstackacademy.com>
+Date:   Tue Jul 23 11:14:52 2019 -0400
+
+    feat(deployment): encrypt heroku auth token in node (#188)
+    
+    * feat(deployment): encrypt heroku auth token in node
+    
+    * bug(deployment): Included missing file and added error cleanup to heroku-token script
+
+[33mcommit 190498030cb23658e38d3d2f8841423638136ac0[m
+Author: David Patlut <dpatlut@gmail.com>
+Date:   Tue Jul 16 11:38:34 2019 -0400
+
+    chore: upgraded axios to 0.19 (#187)
+
+[33mcommit e4f2e7a8d3a346a153b8d76578e1a939cf2b7cfc[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Jul 16 11:17:41 2019 -0400
+
+    chore(deps): bump lodash from 4.17.11 to 4.17.14 (#186)
+    
+    Bumps [lodash](https://github.com/lodash/lodash) from 4.17.11 to 4.17.14.
+    - [Release notes](https://github.com/lodash/lodash/releases)
+    - [Commits](https://github.com/lodash/lodash/compare/4.17.11...4.17.14)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 3799e22ef35c6d0c1a24c76adc5d9f5bbf9e6b27[m
+Author: Finn Terdal <finnterdal@gmail.com>
+Date:   Tue May 21 22:53:15 2019 -0500
+
+    just updates mocha (#181)
+
+[33mcommit f843a8fb429743dcf44bcbce19677e9d65d4cff9[m
+Merge: b440f29 b68fdca
+Author: Finn Terdal <finnterdal@gmail.com>
+Date:   Tue May 21 14:25:28 2019 -0500
+
+    Merge pull request #179 from FullstackAcademy/fix/husky
+    
+    Fix/husky
+
+[33mcommit b68fdca99c2c37c5f2442170378db08ae6650ab1[m
+Merge: 7c3a749 b440f29
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Tue May 21 15:23:16 2019 -0400
+
+    Merge branch 'master' into fix/husky
+
+[33mcommit b440f290dbfbb9e301abbd7a04ae3ed897d05c7e[m
+Author: Finn Terdal <finnterdal@gmail.com>
+Date:   Tue May 21 14:02:31 2019 -0500
+
+    fixes history deprecation warning (#177)
+    
+    * fixes history deprecation warning
+    
+    * oops, forgot to run prettier on it
+
+[33mcommit 7c3a749c069f0dcff38e8b9fda2927e15346c44c[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Tue May 21 14:53:26 2019 -0400
+
+    fix(lint): remove unused global declaration
+
+[33mcommit e4b76c3488a2bd69368167d8635ade13d5402afd[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Tue May 21 14:52:56 2019 -0400
+
+    fix(husky): restore missing husky field
+
+[33mcommit e2b306e51ee19511fa4797ded9210fd4203d90ae[m
+Author: Dakota Blair <dakota@tensen.net>
+Date:   Thu May 16 14:28:25 2019 -0400
+
+    feat(travis): Made some better error messages in the case when the origin name does not match the GitHub URL. (#176)
+
+[33mcommit dea8cc75a042dfb9ed1c8e3912879f038073a47c[m
+Merge: c914d60 b1c646b
+Author: Matthew Short <short.matthew.f@gmail.com>
+Date:   Mon Apr 29 10:43:53 2019 -0400
+
+    Merge pull request #174 from FullstackAcademy/scss-fixes
+    
+    Revert scss updates
+
+[33mcommit b1c646b94c3da2f61b8310c84b881d5d7875f473[m
+Author: David Adewoyin <david.adewoyin@fullstackacademy.com>
+Date:   Sun Apr 28 19:14:04 2019 -0400
+
+    remove scss files
+
+[33mcommit 6254b4a45f2d36f611a3ee5648b6ad1a04352178[m
+Author: David Adewoyin <david.adewoyin@fullstackacademy.com>
+Date:   Sun Apr 28 19:10:12 2019 -0400
+
+    revert scss changes :(
+
+[33mcommit b68da2f5946da57ae9f35cc3f8eb5a5ad4e1fc77[m
+Author: David Adewoyin <david.adewoyin@fullstackacademy.com>
+Date:   Sun Apr 28 19:06:40 2019 -0400
+
+    Revert "sass dependencies"
+    
+    This reverts commit c6f2553b12eb78688360bc21e295009446b11b96.
+
+[33mcommit c914d60682541ba978dff25f3a7d02c7d3b748d5[m
+Merge: 1fe2d85 0406842
+Author: David <dadewoyin16@gmail.com>
+Date:   Thu Apr 18 12:42:59 2019 -0400
+
+    Merge pull request #172 from FullstackAcademy/sassy
+    
+    Sassyyyyyyyyyyyyyyyyy
+
+[33mcommit 0406842d52abfc3e071350a4d2414cc9bbce3990[m
+Author: David Adewoyin <david.adewoyin@fullstackacademy.com>
+Date:   Thu Apr 18 12:16:25 2019 -0400
+
+    sass documentation added to index.scss
+
+[33mcommit 91e46acc62280059a6d4b0bc9a3303354f004c06[m
+Author: David Adewoyin <david.adewoyin@fullstackacademy.com>
+Date:   Thu Apr 18 12:07:04 2019 -0400
+
+    support for scss/small description tips for students wanting to incorporate scss
+
+[33mcommit c6f2553b12eb78688360bc21e295009446b11b96[m
+Author: David Adewoyin <david.adewoyin@fullstackacademy.com>
+Date:   Thu Apr 18 10:29:56 2019 -0400
+
+    sass dependencies
+
+[33mcommit 1fe2d8538a3c9b8f40c550693736447f41c9f973[m
+Author: Geoff Bass <geoff.c.bass@gmail.com>
+Date:   Tue Apr 16 15:38:31 2019 -0400
+
+    fix: replaces deprecated findById with findByPk (#170)
+
+[33mcommit e45aba14f2e0e6cc500a44cd70b76ab50b0f9eb1[m
+Author: Ben Rodriguez <48693719+b17z-fsa@users.noreply.github.com>
+Date:   Thu Apr 11 15:45:58 2019 -0400
+
+    Updated sequelize to 5.3.1 (#169)
+
+[33mcommit cd9fd0e537abcf4acb5ff02371803b5a03e1be41[m
+Merge: 39344bf 6a5f930
+Author: Ben Rodriguez <48693719+b17z-fsa@users.noreply.github.com>
+Date:   Wed Apr 10 12:28:40 2019 -0400
+
+    Merge pull request #168 from FullstackAcademy/boilermaker-updates
+    
+    Boilermaker updates
+
+[33mcommit 6a5f930fd2eb5eca8c17bea0b46ddc25041a8334[m
+Author: collin <collintmiller@gmail.com>
+Date:   Wed Apr 10 11:01:12 2019 -0500
+
+    fix breaking redux-logger change
+    
+    redux logger has changed their export strategy
+
+[33mcommit e7a6689bf8e8f9e0a950d23bfc8b742bc9f10077[m
+Author: Ben Rodriguez <ben.rodriguez@fullstackacademy.com>
+Date:   Wed Apr 10 10:52:56 2019 -0400
+
+    Updated react- specific modules
+
+[33mcommit d542e6cc5dbb5cd40856450bd29a588d5a1f5c8e[m
+Author: Ben Rodriguez <ben.rodriguez@fullstackacademy.com>
+Date:   Tue Apr 9 17:18:23 2019 -0400
+
+    Updates with husky
+
+[33mcommit 466c0e94af2f97e2bbde9ca89309055a9426ff09[m
+Author: Ben Rodriguez <ben.rodriguez@fullstackacademy.com>
+Date:   Tue Apr 9 17:11:30 2019 -0400
+
+    Updated versioning on certain packages
+
+[33mcommit 39344bf0bfde1f9ec51ef714c5c1d19a4da9bc99[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Tue Mar 5 15:59:44 2019 -0500
+
+    feat(travis): run build as part of testing (#163)
+
+[33mcommit 3db75dfbd0b4c481721c1e00a092f771e36af0b0[m
+Author: collin <collintmiller@gmail.com>
+Date:   Thu Feb 21 20:14:07 2019 -0600
+
+    feat(webpack): don't watch node_modules (#154)
+
+[33mcommit 34b98f48791aab9c08271eb160ec48f454e82835[m
+Author: Geoff Bass <geoff.c.bass@gmail.com>
+Date:   Thu Feb 21 21:13:38 2019 -0500
+
+    fix(models): salt and hash passwords for bulk-created users (#155)
+
+[33mcommit 43c4e854a963948cacf778d4fda4651f368c517f[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Mon Jan 7 09:50:40 2019 -0500
+
+    feat(prettier): make prettier opt-out (#153)
+
+[33mcommit 9f6682dfbf6ee5eb3b58b2dc2d344151c1a3504d[m
+Author: collin <collintmiller@gmail.com>
+Date:   Sun Nov 4 13:19:05 2018 -0600
+
+    fix(scripts): start-dev env (#144)
+
+[33mcommit 9bd278ada7311cb57f1607af26e329867b586298[m
+Author: Dakota Blair <dakota@tensen.net>
+Date:   Tue Oct 23 10:52:16 2018 -0400
+
+    feat(deployment): encrypt heroku auth token in bash (#134)
+
+[33mcommit 8f5151880a42d4ae1bc5050814b207139fa66cb2[m
+Author: collin <collintmiller@gmail.com>
+Date:   Fri Aug 3 10:19:11 2018 -0500
+
+    ran babel-upgrade to keep up with beta (#125)
+    
+    * ran babel-upgrade to keep up with beta
+    
+    * restore whitespace in .babelrc comments
+
+[33mcommit 504d45e0a84d285aef3b0cfe32705c09b99d520a[m
+Author: Finn Terdal <fterdal@gmail.com>
+Date:   Wed Jul 25 14:54:20 2018 -0500
+
+    docs(seed): remove outdated async-await comments (#123)
+    
+    `async-await` has been blessed by the Almighty Curriculum, and no longer needs to be treated as something new and strange to students.
+
+[33mcommit bb9f3d99626e90f4cf9c88d237c11cd5c0ea71d9[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Wed Jul 25 12:27:40 2018 -0400
+
+    fix(npm-merge-driver): only run if a `.git` folder is present (#122)
+
+[33mcommit ecd661502b1aa46447858d404f73b51bd0c3a1a6[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Sat Jul 21 14:11:26 2018 -0400
+
+    fix(login): restore missing error handling (#118)
+
+[33mcommit 4f3383ec2e767ce9857d5b43a3fa299fabd814be[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Sat Jul 21 14:01:08 2018 -0400
+
+    feat(git): auto-install npm-merge-driver locally (#119)
+
+[33mcommit 778b0e146e540d55dc47acb2d5817dc4139bffbe[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Sat Jul 21 14:00:01 2018 -0400
+
+    feat(server): switch to built-in body parser (#117)
+
+[33mcommit 3f14ba67aef8b454718c69e8e5712fc9c39c1e89[m
+Author: collin <collintmiller@gmail.com>
+Date:   Tue Jun 19 16:56:38 2018 -0500
+
+    replace all promises with async/await (#20)
+    
+    * replace all promises with async/await
+    
+    * removed merge conflict
+    
+    * repair broken user spec that had a leftover then
+    
+    * restore config files from master
+    
+    * added a missing await in an async function
+    
+    * prettified and linted
+    
+    * fixes per review
+
+[33mcommit 58fe9c9b10b98b21769b41d6add8398b01e7e1ed[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Tue Jun 19 15:48:25 2018 -0400
+
+    docs(readme): restore missing flag (#103)
+
+[33mcommit 9279c1279ec77d2c59a15e38d8b81466043f742e[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Tue Jun 19 15:46:16 2018 -0400
+
+    fix(versions, mocha): remove vulnerabilities and deallocate resources (#106)
+    
+    * fix(mocha): de-allocate resources properly
+    
+    * fix(audit): 0 known vulnerabilities
+
+[33mcommit d2a76fd1bb3d3ffb680a258d9b8f2106db93586e[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Tue Jun 19 15:42:57 2018 -0400
+
+    feat(travis): remove outdated npm upgrade (#105)
+
+[33mcommit b8ea1ce7d53410c9d79e4605fdeb6e0cdeb56c4c[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Tue Jun 19 15:42:04 2018 -0400
+
+    refactor(auth/google): use `findOrCreate` (#108)
+
+[33mcommit 7c9b6598ed1b112b04d0648c9c00f591a084e5c7[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Fri Jun 8 20:59:27 2018 -0400
+
+    feat(error-handling): use console.error (#104)
+
+[33mcommit 73d5bec784ba515e36c493b4e5900ac04765a6f3[m
+Author: Rinaldo <34190720+Rinaldo@users.noreply.github.com>
+Date:   Fri Jun 8 17:11:11 2018 -0400
+
+    feat(webpack): support importing jsx files without explicit extension (#100)
+
+[33mcommit 5813f451abfdf9ed85b645a23176bc2d84bf4484[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Tue Jun 5 21:27:27 2018 -0400
+
+    F/prettier (#87)
+    
+    * feat(prettier): incorporate automatic formatting on commit
+    
+    * chore(prettier): normalize all source code to prettier style
+    
+    * feat(prettier): prettify additional filetypes
+    
+    * feat(prettier): prettify secrets, ignore package.json
+    
+    * chore(prettier): re-normalize according to stated prefs
+    
+    * feat(prettier): make automatic prettification opt-in
+    
+    * chore(prettier): prettify merged files (seed.js)
+    
+    * fix(scripts): re-remove prepush
+
+[33mcommit ad468c9d2c7996540ea9d268eb126c0c6992d3b6[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Tue May 22 12:29:00 2018 -0400
+
+    feat(test): seed script sniff test (#91)
+    
+    * feat(test): seed script sniff test
+    
+    * chore(seed.spec): fix indentation
+    
+    * chore(package-lock): update lockfile
+    
+    * docs(seed.spec): correct comment re: timeout
+    
+    * feat(seed): use seed script directly in spec
+    
+    * fix(travis): remove hard-coded npm version (outdated)
+    
+    * fix(travis): add npm install to support `ci`
+    
+    * fix(package-lock): regenerate lockfile from scratch
+
+[33mcommit 415899d11d2427ec34ca2bca1b25dfa46d98b326[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Tue May 22 11:05:48 2018 -0400
+
+    F/eslint update (#88)
+    
+    * feat(eslint): update to more recent eslint config
+    
+    * chore(user-home-spec): nix unnecessary JSX curly brace
+    
+    * chore(package-lock): update lockfile
+
+[33mcommit f6fe44116a855ab0eebf7cc8bac6831557333556[m
+Merge: 05af75d 9943e54
+Author: collin <collintmiller@gmail.com>
+Date:   Mon May 21 15:35:19 2018 -0500
+
+    Merge pull request #98 from FullstackAcademy/mocha-globs
+    
+    update mocha runner to use globs at node level
+
+[33mcommit 9943e54a6502c363fb11e67ae132871502aac3b8[m
+Author: collin <collintmiller@gmail.com>
+Date:   Mon May 21 15:24:18 2018 -0500
+
+    escape quotes for windows compatibility
+
+[33mcommit 361cdd01d670bea5d3ff0f72bac1af71d5ea3afb[m
+Author: collin <collintmiller@gmail.com>
+Date:   Mon May 21 14:57:57 2018 -0500
+
+    update mocha runner to use globs at node level
+    
+    When the file path arguments to mocha are not wrapped in strings, the operating system expats them into file matches.
+    
+    If we wrap the arguments in `'` quotes, they are passed into mocha and mocha uses a file glob module.
+    
+    This way we need fewer matches to hit all the test files.
+
+[33mcommit 05af75d34c6f726dc2f6fe437407a6401535d784[m
+Merge: 2fc4ddb 8f05e6c
+Author: Finn Terdal <fterdal@gmail.com>
+Date:   Fri May 4 14:35:28 2018 -0500
+
+    Merge pull request #95 from knxyzkn/babel-fix
+    
+    babel-preset-stage-2 fix
+
+[33mcommit 2fc4ddb4cdd6d468a1bf4889e7380ba43da4cf32[m
+Author: Finn Terdal <fterdal@gmail.com>
+Date:   Fri May 4 12:30:27 2018 -0500
+
+    reverts accidental commits -- we should really protect master ;)
+
+[33mcommit 5512c409df441a7b56d80a6e439931d04d291632[m
+Author: Finn Terdal <fterdal@gmail.com>
+Date:   Fri May 4 12:28:19 2018 -0500
+
+    Revert "Includes react-native in boilermaker as a subdirectory"
+    
+    This reverts commit 563720cc3b9996cf3dfd7a5bde09d42189e74e2a.
+
+[33mcommit 1580604a7b448e9ffccc19a0daaacff7c86c66ab[m
+Author: Finn Terdal <fterdal@gmail.com>
+Date:   Fri May 4 12:28:03 2018 -0500
+
+    Revert "adds some cats"
+    
+    This reverts commit e306c5a4e6893435a6f8c817d44bf2118e3c4481.
+
+[33mcommit e306c5a4e6893435a6f8c817d44bf2118e3c4481[m
+Author: Finn Terdal <fterdal@gmail.com>
+Date:   Thu May 3 16:51:46 2018 -0500
+
+    adds some cats
+
+[33mcommit 563720cc3b9996cf3dfd7a5bde09d42189e74e2a[m
+Author: Finn Terdal <fterdal@gmail.com>
+Date:   Wed May 2 12:17:19 2018 -0500
+
+    Includes react-native in boilermaker as a subdirectory
+
+[33mcommit 8f05e6c71ad5cc0de7197cf308c9e80b2d829a45[m
+Author: Kaushik Nagaraj <kaushikstan@gmail.com>
+Date:   Thu Apr 26 21:42:30 2018 -0400
+
+    babel-preset-stage-2 fix
+
+[33mcommit 7bf99734bde588d8ce30b0a6c6db79b7aef0a6a1[m
+Merge: aea3d58 80c9264
+Author: Omri Bernstein <hippiccolo@gmail.com>
+Date:   Mon Apr 16 11:40:41 2018 -0500
+
+    Merge pull request #90 from FullstackAcademy/f/secure-login
+    
+    feat(login): restrict details on failed login
+
+[33mcommit aea3d58b53cc88c8408780928f55fc4ab380db19[m
+Merge: 4f0824c 131a396
+Author: Omri Bernstein <hippiccolo@gmail.com>
+Date:   Mon Apr 16 11:36:46 2018 -0500
+
+    Merge pull request #89 from FullstackAcademy/fix/deploy-docs
+    
+    docs(README): add --org flag to travis encrypt
+
+[33mcommit 4f0824c8986c93374e6e5eb7e047fe7ae24d9932[m
+Merge: 3216cc2 b3be39a
+Author: Kate Humphrey <khumphrey7890@gmail.com>
+Date:   Mon Apr 16 12:16:35 2018 -0400
+
+    Merge pull request #92 from queerviolet/master
+    
+    Removing husky for this boilerplate as the use case is grace shopper
+
+[33mcommit b3be39a460b4ee079af94a012d7609fd6c9c601d[m
+Author: Ashi Krishnan <me@ashi.works>
+Date:   Mon Apr 16 12:15:23 2018 -0400
+
+    Update package.lock.
+
+[33mcommit 7c46036f979814d415daa66909d667e59e47873f[m
+Author: Ashi Krishnan <me@ashi.works>
+Date:   Mon Apr 16 12:07:15 2018 -0400
+
+    Unhusky.
+
+[33mcommit 80c9264205f6e6ac669f88a86bc41d98aa0a7070[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Sun Apr 8 15:22:12 2018 -0400
+
+    feat(login): restrict details on failed login
+
+[33mcommit 131a396049a15bae074c3dd10f682f6a593ff278[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Sun Apr 8 15:13:23 2018 -0400
+
+    docs(README): add --org flag to travis encrypt
+
+[33mcommit 3216cc2ec0c132d050069e1352eeeaa8dd2018ea[m
+Merge: 277bee2 d4ac2b1
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Thu Mar 1 23:35:03 2018 -0500
+
+    Merge pull request #84 from FullstackAcademy/f/travis-deploy
+    
+    travis: set up for deployment
+
+[33mcommit d4ac2b1b8baa5cc8e046e3e482c3597061df198f[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Thu Mar 1 00:26:18 2018 -0500
+
+    travis: set up for deployment
+
+[33mcommit 277bee25952e209d1ec7e3550c330d8441df0b08[m
+Merge: b1c76f6 cbf5d73
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Tue Feb 27 14:05:45 2018 -0500
+
+    Merge pull request #81 from sethfork/master
+    
+    Add LICENSE
+
+[33mcommit cbf5d73f6a41f72a6ace04a151369f43d389970c[m
+Author: Seth <sefeibus@gmail.com>
+Date:   Tue Feb 27 12:51:12 2018 -0500
+
+    Update package.json
+    
+    Add license to package.json
+
+[33mcommit 1ced81042686de61649430a3696ce019a850931a[m
+Author: Seth <sefeibus@gmail.com>
+Date:   Tue Feb 27 12:38:16 2018 -0500
+
+    Add LICENSE
+
+[33mcommit f316d619b3f7e4067567a409ac5c4e9ae17d4851[m
+Merge: b1c76f6 75d3d6d
+Author: Seth <sefeibus@gmail.com>
+Date:   Tue Feb 27 12:26:15 2018 -0500
+
+    Merge pull request #1 from sethfork/add-license-1
+    
+    Create LICENSE
+
+[33mcommit 75d3d6d61d6f526a0a7559a0966ded00e8751d19[m
+Author: Seth <sefeibus@gmail.com>
+Date:   Tue Feb 27 12:25:54 2018 -0500
+
+    Create LICENSE
+
+[33mcommit b1c76f6023d50c7433030913acd7f9443e134b52[m
+Merge: 75994d4 23c1ec2
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Tue Feb 27 11:36:39 2018 -0500
+
+    Merge pull request #77 from FullstackAcademy/f/upgrade-webpack-babel
+    
+    feat(build): webpack 4, babel polyfill for async
+
+[33mcommit 23c1ec22587ef4e6d4126828d111387f77cc98f5[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Mon Feb 26 22:10:39 2018 -0500
+
+    feat(build): webpack 4, babel polyfill for async
+
+[33mcommit 75994d406936419c18690f0956aff52be9b9c258[m
+Merge: cc326d5 96a36ed
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Mon Feb 26 15:07:20 2018 -0500
+
+    Merge pull request #75 from glebec/f/yarn-to-npm
+    
+    feat(packages): switch from yarn to npm
+
+[33mcommit 96a36eda9b94d6caad74d240283b8c41d560f99d[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Mon Feb 26 15:04:52 2018 -0500
+
+    feat(travis): remove counter-productive caching
+
+[33mcommit d53bcf2a6b61b402ea390340090dcb25a8d93780[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Mon Feb 26 15:01:59 2018 -0500
+
+    feat(packages): switch from yarn to npm
+
+[33mcommit cc326d5862358609b2ed24a3c96a7f28812b8ce8[m
+Merge: 1492b40 ae68db0
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Mon Feb 26 10:45:04 2018 -0500
+
+    Merge pull request #30 from FullstackAcademy/f/husky
+    
+    Husky, prepush lint & test
+
+[33mcommit 1492b400bea6657fc8126ca532846603403f07b8[m
+Merge: fbf1802 0975890
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Mon Feb 26 10:43:11 2018 -0500
+
+    Merge pull request #71 from FullstackAcademy/f/refactor-react
+    
+    F/refactor react
+
+[33mcommit fbf1802e3c7da12461613325b387ece9fe5ae8e9[m
+Merge: a61dd59 46485d6
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Mon Feb 26 10:20:37 2018 -0500
+
+    Merge pull request #72 from FullstackAcademy/f/hide-pwd-salt
+    
+    feat(user): hide password and salt from client
+
+[33mcommit a61dd596e4609c9b7a643d997e48ac35c8ba5d0c[m
+Merge: c79825a d0aab8d
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Mon Feb 26 10:20:05 2018 -0500
+
+    Merge pull request #73 from FullstackAcademy/f/travis-yml
+    
+    travis: add .travis.yml
+
+[33mcommit 097589055d6a54af13cf7f8b27f40d16ddb28374[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Mon Feb 26 10:14:34 2018 -0500
+
+    chore(client): remove spaces from import braces
+
+[33mcommit d0aab8dee546b3de18d6618660d3e397617d65cc[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Mon Feb 26 00:35:29 2018 -0500
+
+    travis: add .travis.yml
+    
+    travis: skip cleanup
+    
+    fix(travis): hyphenated db name
+    
+    fix(travis): actually allow hyphen
+    
+    feat(travis): rearrange, include latent build
+
+[33mcommit ae68db0bb639fad1afae60f64637fe92dc66c08c[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Sun Feb 25 23:07:21 2018 -0500
+
+    husky(prepush): also run tests
+
+[33mcommit 30234bc2c0859197f033455985734ab801ee555f[m
+Merge: b7c89dc c79825a
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Sun Feb 25 23:05:27 2018 -0500
+
+    Merge branch 'master' into f/husky
+
+[33mcommit 46485d60c14bbdae355e44b5089fd6dc10406429[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Sun Feb 25 22:57:25 2018 -0500
+
+    chore(user): remove leftover commented code
+
+[33mcommit 48c3f38aecb1fac0bec0a2aa80e00f41666f4ffc[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Sun Feb 25 22:52:25 2018 -0500
+
+    feat(user): hide password and salt from client
+
+[33mcommit 64b1173e6e5db22a82d3aabfccdd7d89298a80c9[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Sun Feb 25 22:29:55 2018 -0500
+
+    chore(client): remove unused imports, add proptypes
+
+[33mcommit 1a6c73cb4adf4e32557cc55989a1f5081794af1b[m
+Merge: 07d1e06 c79825a
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Sun Feb 25 20:08:43 2018 -0500
+
+    Merge branch 'master' into f/refactor-react
+
+[33mcommit c79825a7d301ea9f89b6ab48e18a0e5f4b4862b7[m
+Merge: 02ca9de f0f9f1f
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Sun Feb 25 20:08:18 2018 -0500
+
+    Merge pull request #70 from FullstackAcademy/fix/nodemon-restarting-client
+    
+    fix(nodemon): ignore client folder
+
+[33mcommit f0f9f1f4a1ff99dddf7afc0cdb722d37a02f49a1[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Sun Feb 25 20:05:14 2018 -0500
+
+    fix(nodemon): ignore client folder
+
+[33mcommit 02ca9de1f3e4c5aca9ccb18a8cce948d04e54ec1[m
+Merge: 4a3105f 83973c1
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Fri Feb 16 11:09:44 2018 -0500
+
+    Merge pull request #68 from alexv/fix/readme
+    
+    fix(readme): change to reflect new db naming behavior
+
+[33mcommit 83973c152e3e4c6b7d3052d169dc32f787ef6824[m
+Author: Alejandro Villarreal <avillarreal01@gmail.com>
+Date:   Fri Feb 16 10:50:18 2018 -0500
+
+    fix(readme): change to reflect new db naming behavior
+
+[33mcommit 4a3105f0ccaa7c4aff3643125538383fe1956e7d[m
+Merge: da5ea7a 5839d4a
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Fri Feb 16 10:32:19 2018 -0500
+
+    Merge pull request #66 from alexv/fix/db-config
+    
+    fix(db): set database name to package name
+
+[33mcommit 5839d4a2c2dc47e074e7d99ba93f26e0c35ae360[m
+Author: Alejandro Villarreal <avillarreal01@gmail.com>
+Date:   Fri Feb 16 10:23:17 2018 -0500
+
+    fix(package): remove line breaks
+
+[33mcommit 07d1e069bcd59b6dcdd9ffbd79f39cd9dfadc51a[m
+Author: Alejandro Villarreal <avillarreal01@gmail.com>
+Date:   Thu Feb 15 08:02:13 2018 -0500
+
+    fix(routes): move withRouter to routes
+
+[33mcommit 517aa04b21fe12270160b9d2e63578b1dee3376c[m
+Author: Alejandro Villarreal <avillarreal01@gmail.com>
+Date:   Thu Feb 15 07:57:32 2018 -0500
+
+    initial refactor
+
+[33mcommit e3d5465160eace0450096fdf845dd6bd23c13581[m
+Author: Alejandro Villarreal <avillarreal01@gmail.com>
+Date:   Wed Feb 14 20:04:58 2018 -0500
+
+    fix(db): set database name to package name
+
+[33mcommit da5ea7a4d52f62b22eec8e753bec016880cb8f02[m
+Merge: 6d9f2f0 70f3e0e
+Author: Tom Kelly <tom@fullstackacademy.com>
+Date:   Thu Jan 11 11:24:03 2018 -0500
+
+    Merge pull request #49 from FullstackAcademy/destroy-session
+    
+    destroy session properly on logout
+
+[33mcommit 70f3e0e4fded8381c3d3d25174f98c8fdcf20eea[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Wed Jan 10 17:33:21 2018 -0500
+
+    destroy session properly on logout
+
+[33mcommit 6d9f2f02e0e8895dd555760d2a6df772c95bf0ad[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Sun Jan 7 14:19:23 2018 -0500
+
+    add app to front of .use
+
+[33mcommit 724543a79c0b22cfc45a2f3529824c1a41ca858b[m
+Merge: 0ac6ebf 0fa451a
+Author: Tom Kelly <tom@fullstackacademy.com>
+Date:   Thu Dec 14 16:19:00 2017 -0500
+
+    Merge pull request #43 from FullstackAcademy/fix/unintended-logout
+    
+    fix(redux/user): stop unrelated errors from logging out user during auth
+
+[33mcommit 0fa451a500b72c1295a57db19b3f073ac703dabf[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Tue Dec 12 16:12:07 2017 -0500
+
+    fix(redux/user): stop unrelated errors from logging out user during auth
+
+[33mcommit 0ac6ebf57d7889788c2e657270f90a8c0ae82451[m
+Merge: 72c1c44 d8c7171
+Author: Tom Kelly <tom@fullstackacademy.com>
+Date:   Tue Dec 12 15:56:40 2017 -0500
+
+    Merge pull request #41 from FullstackAcademy/fix/testing-env
+    
+    fix/testing env
+
+[33mcommit d8c717116c4ca05c1f010b584226e81f3bc57bfa[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Tue Dec 12 15:46:50 2017 -0500
+
+    fix(NODE_ENV): make NODE_ENV apply to webpack config
+
+[33mcommit a4642ba8182751b80130af8fd7427c35d78d5593[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Tue Dec 12 15:38:44 2017 -0500
+
+    chore(yarn): bring lockfile back in sync
+
+[33mcommit 72c1c447392277371fdf26b6b19cb7377c4117c2[m
+Merge: f2972de b9279eb
+Author: Tom Kelly <tom@fullstackacademy.com>
+Date:   Fri Dec 8 14:30:06 2017 -0500
+
+    Merge pull request #40 from FullstackAcademy/no-scss
+    
+    A farewell to scss
+
+[33mcommit b9279eb3e1ff7d4dcb8ac73f6077b4e6ba54b19a[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Thu Dec 7 09:52:03 2017 -0500
+
+    also remove file loader
+
+[33mcommit acd6fbbe6c373b26d6dcf3fe8f251f6e75e7c7df[m
+Merge: 1eede1e e16ab49
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Thu Dec 7 09:47:21 2017 -0500
+
+    up to date with master
+
+[33mcommit f2972def6ef6ac7f3c2996970ee9f91a698b9b79[m
+Merge: e16ab49 fb2eead
+Author: Tom Kelly <tom@fullstackacademy.com>
+Date:   Thu Dec 7 09:42:24 2017 -0500
+
+    Merge pull request #39 from FullstackAcademy/khumphrey-RR4
+    
+    Update to only user RR4
+
+[33mcommit fb2eead9f0b9ad99ba98923b99c5d0c97078b080[m
+Author: Kate Humphrey <khumphrey7890@gmail.com>
+Date:   Wed Dec 6 17:45:14 2017 -0500
+
+    Remove react-router from package.json
+
+[33mcommit a3ec9e1db12d10fedd65671ace1b7967b13b7fcc[m
+Author: Kate Humphrey <khumphrey7890@gmail.com>
+Date:   Wed Dec 6 17:41:32 2017 -0500
+
+    Update to only user RR4
+
+[33mcommit e16ab49171e6dda42788d5258ba997887049dd75[m
+Merge: d5c19e8 29b39ae
+Author: Tom Kelly <tom@fullstackacademy.com>
+Date:   Mon Oct 30 10:32:28 2017 -0400
+
+    Merge pull request #31 from FullstackAcademy/f/eslint-fix
+    
+    fix(linter): restore missing expression parens
+
+[33mcommit 29b39aebd23d5866f622370181336b289158d466[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Mon Oct 30 10:26:56 2017 -0400
+
+    fix(linter): restore missing expression parens
+
+[33mcommit d5c19e894f72613169b9a6c8180ed38ff7c98cc8[m
+Merge: 5a3d662 554856b
+Author: Tom Kelly <tom@fullstackacademy.com>
+Date:   Mon Oct 30 10:09:06 2017 -0400
+
+    Merge pull request #23 from FullstackAcademy/f/eslint
+    
+    F/eslint
+
+[33mcommit 554856b946cc0b5718b5055a05129d3709071612[m
+Merge: 44e96b3 5a3d662
+Author: Tom Kelly <tom@fullstackacademy.com>
+Date:   Mon Oct 30 09:51:10 2017 -0400
+
+    Merge branch 'master' into f/eslint
+
+[33mcommit 5a3d66286d7e4efd28a466b3af9af25a4aa0dc99[m
+Merge: e63a184 2691900
+Author: Tom Kelly <tom@fullstackacademy.com>
+Date:   Mon Oct 30 09:48:35 2017 -0400
+
+    Merge pull request #28 from FullstackAcademy/f/github-templated
+    
+    GitHub Templates
+
+[33mcommit e63a1848608268098f3bf34ee4fccbb7a60672bc[m
+Merge: c7b26e8 20d9be8
+Author: Tom Kelly <tom@fullstackacademy.com>
+Date:   Mon Oct 30 09:48:07 2017 -0400
+
+    Merge pull request #29 from FullstackAcademy/f/redux-devtools
+    
+    feat(devtools): redux devtools
+
+[33mcommit c7b26e884d62458453a2b7e881c1c5982e55cfac[m
+Merge: 01a2f7a f168548
+Author: Tom Kelly <tom@fullstackacademy.com>
+Date:   Mon Oct 30 09:41:47 2017 -0400
+
+    Merge pull request #26 from FullstackAcademy/f/init-secrets
+    
+    fix(testing): init secrets, skip missing OAuth so tests work
+
+[33mcommit 01a2f7a0637afcba2fe3eee5044933be5513a9c5[m
+Merge: 0c2cb87 ad9b50f
+Author: Tom Kelly <tom@fullstackacademy.com>
+Date:   Mon Oct 30 09:38:42 2017 -0400
+
+    Merge pull request #24 from FullstackAcademy/f/editorconfig
+    
+    EditorConfig
+
+[33mcommit 0c2cb8739fa7c79455bd86542208ba81fedfafc5[m
+Merge: 056a3eb aea850e
+Author: Tom Kelly <tom@fullstackacademy.com>
+Date:   Mon Oct 30 09:37:55 2017 -0400
+
+    Merge pull request #27 from FullstackAcademy/f/better-file-fallback
+    
+    fix(server): 404 for missing files
+
+[33mcommit b7c89dcc94387447f1b53fa2ed419a2af1738fe5[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Mon Oct 30 06:19:11 2017 -0400
+
+    feat(linter): prevent pushing code that fails lint
+
+[33mcommit 20d9be829604223c6ce367e540e59be8d0ece6a3[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Mon Oct 30 06:09:37 2017 -0400
+
+    feat(devtools): redux devtools
+
+[33mcommit 44e96b34055c7372d6e4c66cb575424ed7c90033[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Mon Oct 30 05:53:55 2017 -0400
+
+    docs(linter): update README to match config
+
+[33mcommit 2691900ab525bb923701688f74fc2e5d2ab0ccd9[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Mon Oct 30 05:39:17 2017 -0400
+
+    f/github-templates
+
+[33mcommit aea850e9d3860cc16c50d1c1540c79bd901c91f4[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Mon Oct 30 05:17:14 2017 -0400
+
+    fix(server): 404 for missing files
+
+[33mcommit f1685486cd7659553bee09a3c8708d082637aca1[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Mon Oct 30 04:58:46 2017 -0400
+
+    fix(testing): init secrets, skip missing OAuth so tests work out the gate.
+
+[33mcommit ad9b50f3718f25a14c1a2b9cb0cfbb13adb4de17[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Mon Oct 30 04:33:14 2017 -0400
+
+    feat(editorconfig): init
+
+[33mcommit aa7e902b6aa4a7f223b892600e6707df161c3d57[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Mon Oct 30 04:26:24 2017 -0400
+
+    feat(linter): remove all warnings
+
+[33mcommit 8a24558341ff5846b622e2b88f21c423abd68160[m
+Author: Gabriel Lebec <glebec@gmail.com>
+Date:   Mon Oct 30 04:17:59 2017 -0400
+
+    feat(linter): add eslint-config-fullstack
+
+[33mcommit 056a3eb13c924aacfdbbcc8d8bcde95e6e5f8783[m
+Merge: d075478 ee6fade
+Author: Tom Kelly <tom@fullstackacademy.com>
+Date:   Thu Oct 19 11:54:48 2017 -0400
+
+    Merge pull request #19 from FullstackAcademy/single-mock-axios
+    
+    move axios mocking to its own file
+
+[33mcommit ee6fade9fe28a45b38a0d587a839615813c35a9d[m
+Author: collin <collintmiller@gmail.com>
+Date:   Thu Oct 19 10:46:37 2017 -0500
+
+    delete semi-colons
+
+[33mcommit 6cebbce82b80d6a0a8bb65c0bc50b6c604fd0a1f[m
+Author: Collin Miller <collintmiller@gmail.com>
+Date:   Thu Oct 19 10:43:37 2017 -0500
+
+    setup and teardown mock axios in mocha hooks
+
+[33mcommit 22cd898335cabf53928e005765e01c296364b07d[m
+Author: Collin Miller <collintmiller@gmail.com>
+Date:   Wed Oct 18 16:15:55 2017 -0500
+
+    adds the single mock-axios file
+
+[33mcommit bdd9a2f46881c871f0d93f4d87a4929dc62fc0c8[m
+Author: Collin Miller <collintmiller@gmail.com>
+Date:   Wed Oct 18 16:02:14 2017 -0500
+
+    move axios mocking to it's own file
+
+[33mcommit d075478040d3755240ce57333b0f2436731883dd[m
+Merge: 232e067 ae1e863
+Author: Tom Kelly <tom@fullstackacademy.com>
+Date:   Fri Oct 13 14:53:23 2017 -0400
+
+    Merge pull request #18 from FullstackAcademy/seed-script
+    
+    add seed to script directory
+
+[33mcommit ae1e8630b1cbc339b2ee4c717b5e64e12b64de32[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Fri Oct 13 14:16:18 2017 -0400
+
+    add seed to script directory
+
+[33mcommit 232e0670b8de696f261470b76487a708418d2759[m
+Merge: 392703c 4f3601c
+Author: Tom Kelly <tom@fullstackacademy.com>
+Date:   Fri Oct 13 14:14:50 2017 -0400
+
+    Merge pull request #17 from FullstackAcademy/cleanup-deploy-failures
+    
+    delete the deploy branch even when deploy fails
+
+[33mcommit 4f3601c25a9b78e081223a1287c6399777042e78[m
+Author: collin <collintmiller@gmail.com>
+Date:   Fri Oct 13 11:04:21 2017 -0500
+
+    over-document the deploy script
+
+[33mcommit 4cec06831bb59d51a9c4295bd035c068ea36d2d0[m
+Author: Collin Miller <collintmiller@gmail.com>
+Date:   Mon Oct 9 11:48:43 2017 -0500
+
+    delete the deploy branch even when deploy fails
+
+[33mcommit 392703c79b40c8cd5ddb946e5418f011031d373f[m
+Merge: 814b23f 00397e2
+Author: Tom Kelly <tom@fullstackacademy.com>
+Date:   Fri Sep 29 17:59:50 2017 -0400
+
+    Merge pull request #15 from FullstackAcademy/sha256
+    
+    add seed command and change pwd hash to rsa-sha256
+
+[33mcommit 00397e2609b0d496a76ed7d690d76033c02ebc35[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Fri Sep 29 17:52:51 2017 -0400
+
+    add seed command and change pwd hash to rsa-sha256
+
+[33mcommit 814b23f0d7f35a30c38385eb8e18babff595717e[m
+Merge: 2de7e46 278b3d1
+Author: Tom Kelly <tom@fullstackacademy.com>
+Date:   Fri Sep 29 15:54:34 2017 -0400
+
+    Merge pull request #14 from FullstackAcademy/livereload
+    
+    Livereload
+
+[33mcommit 278b3d1379430d6550eef043e6e300cd7c08c78e[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Fri Sep 29 15:49:09 2017 -0400
+
+    typo
+
+[33mcommit e9645c6a60784ce58bf2461d4420d39ae15afcbc[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Fri Sep 29 15:47:05 2017 -0400
+
+    add live reload plugin
+
+[33mcommit 2de7e461a74fa20aac69ce8ac50f6b31dd4c848f[m
+Merge: c7bad29 683838d
+Author: Tom Kelly <tom@fullstackacademy.com>
+Date:   Fri Sep 29 15:29:19 2017 -0400
+
+    Merge pull request #13 from FullstackAcademy/react-16
+    
+    React 16
+
+[33mcommit 683838de58bf294a755b7aba215803e5ecb4ad3e[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Fri Sep 29 15:10:35 2017 -0400
+
+    bump up to stage 2 and add comments to babelrc
+
+[33mcommit 5365e4c07db1f9ed6627e8fc20026272544ac782[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Fri Sep 29 14:29:23 2017 -0400
+
+    whoops, babel-env is a dev dependency
+
+[33mcommit 0da44bfbed833a32790f1dddbf9f58550cc19e70[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Fri Sep 29 14:25:35 2017 -0400
+
+    update to react-16 and babel-env
+
+[33mcommit c7bad29ab027943c523bb6d4736e8a31c9eaa7a5[m
+Merge: 7216f3f 8c41d0c
+Author: Geoff Bass <geoff.c.bass@gmail.com>
+Date:   Fri Sep 29 12:22:03 2017 -0400
+
+    Merge pull request #12 from FullstackAcademy/compression
+    
+    add compression middleware
+
+[33mcommit 7216f3fa064f7f16a2bbb2f39af7b75ea19cc2a8[m
+Merge: cab2de9 aad4e72
+Author: Tom Kelly <tom@fullstackacademy.com>
+Date:   Fri Sep 29 11:55:55 2017 -0400
+
+    Merge pull request #11 from FullstackAcademy/seed
+    
+    add a seed file that does some async await explaining
+
+[33mcommit aad4e726a14b0f45e207586ffd1276d1854f0d06[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Fri Sep 29 11:32:23 2017 -0400
+
+    changes per review
+
+[33mcommit 8c41d0c68cfb6e45ea502f13aae09b102aacf386[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Fri Sep 29 10:00:47 2017 -0400
+
+    add compression middleware
+
+[33mcommit d1f0c0b51adbbf74365363f5829f4be7d3d8510f[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Fri Sep 29 09:54:14 2017 -0400
+
+    add a seed file that does some async await explaining
+
+[33mcommit cab2de99a5f855d95bde6e72e86718bb23353b3d[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Thu Sep 21 09:15:48 2017 -0400
+
+    add nodemon as dev dependency
+
+[33mcommit 7a30fa545297e93183848a2b156b712e0c653d80[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Fri Sep 15 13:02:58 2017 -0400
+
+    revert some changes
+
+[33mcommit bc46e73d65b229e6e2b0b86f3170befd9c21ddbc[m
+Merge: 4e894de e99b337
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Fri Sep 15 12:59:41 2017 -0400
+
+    Merge branch 'master' of https://github.com/FullstackAcademy/boilermaker
+
+[33mcommit 4e894decfa9d01241674662e363969357892a7a9[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Fri Sep 15 12:54:57 2017 -0400
+
+    quick fix to readme
+
+[33mcommit e99b337b68cf164a6a1b7204a989f1718e5d0a41[m
+Merge: f0c98ce 350395c
+Author: Geoff Bass <geoff.c.bass@gmail.com>
+Date:   Fri Sep 15 12:49:23 2017 -0400
+
+    Merge pull request #10 from geoffbass/readmeFix
+    
+    Readme fix
+
+[33mcommit 350395cc2ba14cda2cce95e7499162f0a1de044e[m
+Author: Geoff Bass <geoff.c.bass@gmail.com>
+Date:   Fri Sep 15 12:48:13 2017 -0400
+
+    change app title
+
+[33mcommit 5a400e5fc9364c5d625228fdc0d55cca00095ea9[m
+Author: Geoff Bass <geoff.c.bass@gmail.com>
+Date:   Fri Sep 15 12:44:48 2017 -0400
+
+    include webpack in start process
+
+[33mcommit 21b7b93515eb13dbfd05da3d439f04b7b59e8b39[m
+Merge: 08173b9 bb5b84c
+Author: Geoff Bass <geoff.c.bass@gmail.com>
+Date:   Fri Sep 15 12:43:08 2017 -0400
+
+    Merge branch 'master' of https://git.heroku.com/calm-eyrie-48111
+
+[33mcommit 08173b918640cf8fedd74f2bfc9b4196236fdd62[m
+Author: Geoff Bass <geoff.c.bass@gmail.com>
+Date:   Fri Sep 15 12:42:39 2017 -0400
+
+    alter dependencies
+
+[33mcommit bb5b84ca5657d0cd873109dabdcf73556bbf1e07[m
+Author: Geoff Bass <geoff.c.bass@gmail.com>
+Date:   Fri Sep 15 12:33:37 2017 -0400
+
+    Deploying
+
+[33mcommit 1eede1e13f2ba69c574164a861ff5067a8ccbe95[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Wed Sep 6 11:56:42 2017 -0400
+
+    bye scss
+
+[33mcommit f0c98ce936a9fb84646874dfda1e31920c20c44f[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Fri Sep 1 09:18:53 2017 -0400
+
+    minor update to readme
+
+[33mcommit a7515312b04ae9e8b25033abfc29f06cbc8c4d65[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Wed Aug 30 22:35:36 2017 -0400
+
+    make socket standard
+
+[33mcommit edc682328b0d019f3b43e9a7b4ae0c449bfd2b78[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Mon Aug 14 13:55:02 2017 -0400
+
+    change to capital D
+
+[33mcommit c4e529b113481bf6282d31c2d829c8e8afa01967[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Mon Aug 14 12:51:50 2017 -0400
+
+    make deploy script more robust
+
+[33mcommit 06ac8115cc66fd7d4697a1d2ee1b0544cd7b5d6f[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Mon Aug 14 12:37:29 2017 -0400
+
+    add force push instead of pull
+
+[33mcommit fc29034720f79b3c44ba50ce8b5ff505c4e913e3[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Wed Aug 2 15:41:56 2017 -0400
+
+    add eslint comments
+
+[33mcommit bafe2e5ba899f1a67110735b2406ac2a1b8dcd8a[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Wed Aug 2 15:30:20 2017 -0400
+
+    single quote that which had been double
+
+[33mcommit ffcf1cf5c45e8649f6e1ec698ab0b687f6b63525[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Tue Aug 1 14:03:24 2017 -0400
+
+    remove yarn lock to avoid future conflicts
+
+[33mcommit f76e3245d3a369e6dc07888723ab7e5a2e3f12bc[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Fri Jul 28 11:54:06 2017 -0400
+
+    add git pull to deploy script
+
+[33mcommit 3a0144478ccd7d3c5d56ee9244d93de1db983c4e[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Fri Jul 28 09:49:30 2017 -0400
+
+    remove unnecessary yarn mention
+
+[33mcommit 46e384ae40439e43d000371eae0df44c6883c13c[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Thu Jul 27 15:41:29 2017 -0400
+
+    update start instructions
+
+[33mcommit 4c12e706bd7d40eb35b7a48cb4a9304fd140fe14[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Thu Jul 27 09:46:08 2017 -0400
+
+    move app.listen out of pipeline for testing
+
+[33mcommit 54a1a049dc0e40849f5b9e524351be47050ffdf9[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Thu Jul 27 09:40:59 2017 -0400
+
+    slight wording fix in readme
+
+[33mcommit 1c405cc5b0843b671855114af9325b3cd02942d1[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Thu Jul 27 09:39:45 2017 -0400
+
+    quick indentation fix in readme
+
+[33mcommit b72db33555ef5d4fbf076b89ca0a4c4334ad2492[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Wed Jul 26 21:27:23 2017 -0400
+
+    whoops, require the right file if db tests run in isolation
+
+[33mcommit 17617e97c6ede860dec1457d2e8efbd04d0dbc09[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Wed Jul 26 10:19:50 2017 -0400
+
+    whoops, createApp
+
+[33mcommit a292eb433f80c9ef644e8761f810e147f9bafa20[m
+Merge: 26af71f 44f6b75
+Author: Tom Kelly <tom@fullstackacademy.com>
+Date:   Tue Jul 25 20:28:35 2017 -0400
+
+    Merge pull request #7 from FullstackAcademy/more-linting
+    
+    More linting
+
+[33mcommit 44f6b7513bbe911f1a92e72441825ca6d0c3fcf0[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Tue Jul 25 20:22:03 2017 -0400
+
+    to lowercase
+
+[33mcommit 105741082081f773f3efd3c2fad45c0ea3334aa0[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Tue Jul 25 18:10:15 2017 -0400
+
+    add an engine
+
+[33mcommit 79b19f65f65040253493c1d70c0db689aec09062[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Tue Jul 25 18:02:41 2017 -0400
+
+    arbitrary change to test codeship
+
+[33mcommit b326ec1bf921f48ca810e077870006fa7f773b61[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Tue Jul 25 17:47:44 2017 -0400
+
+    update yarn lock
+
+[33mcommit 19e00dbbd4b180edfb98e06e290ae1c93885fd85[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Tue Jul 25 17:47:03 2017 -0400
+
+    dont foget webpack config
+
+[33mcommit 17e8aaafc3f0bf9e7a46e834aba144a6607c93f9[m
+Merge: 078aa79 26af71f
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Tue Jul 25 17:44:40 2017 -0400
+
+    Merge branch 'master' of https://github.com/FullstackAcademy/boilermaker into more-linting
+
+[33mcommit 078aa79eeb96d2b735fd7410e727b6c96067b455[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Tue Jul 25 17:44:36 2017 -0400
+
+    lint all the things
+
+[33mcommit 26af71fcfd01cdfaa22f83ee519efc59bbb4a69c[m
+Merge: 003e77d e3b162d
+Author: Tom Kelly <tom@fullstackacademy.com>
+Date:   Tue Jul 25 17:44:14 2017 -0400
+
+    Merge pull request #6 from FullstackAcademy/testing-demo
+    
+    add test examples for thunks and components
+
+[33mcommit e3b162d8abe8e7a67b9beea3d21f00f5bf994ef8[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Tue Jul 25 17:00:23 2017 -0400
+
+    copyedit
+
+[33mcommit 36a755fdca1116f06eae2ac98a830810de792662[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Tue Jul 25 16:51:56 2017 -0400
+
+    add a bit more detail
+
+[33mcommit 9bf31c825d9f56a933a892c862640e25083b399f[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Tue Jul 25 16:49:06 2017 -0400
+
+    remove semi and add linting instructions
+
+[33mcommit 4d0070c8b9ea3a08589d666428a45db7481d932b[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Tue Jul 25 14:56:55 2017 -0400
+
+    add test examples for thunks and components
+
+[33mcommit 003e77dae49129dbe253fb71d69fde9b45d36ae8[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Mon Jul 24 19:11:51 2017 -0400
+
+    update to rename sessionstore, remove unnecessary 404 and make start-dev script less confusing looking
+
+[33mcommit 7e57369760028698fd1057f2b40b78f331ca0277[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Mon Jul 24 17:20:37 2017 -0400
+
+    forgot to catch
+
+[33mcommit 35de05d741282b43cfe948258fdf9ffd588b3f59[m
+Merge: 0c84888 e5b359c
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Mon Jul 24 16:47:59 2017 -0400
+
+    Merge branch 'master' of https://github.com/FullstackAcademy/boilermaker
+
+[33mcommit 0c84888b7bd0e9d422c26454584f62a5ab9c6f6b[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Mon Jul 24 16:47:55 2017 -0400
+
+    specify dev env
+
+[33mcommit e5b359cb6841fd11e11932cdb2b395d27524fc8b[m
+Author: Connie Lee <connie.lee0317@gmail.com>
+Date:   Mon Jul 24 10:12:43 2017 -0500
+
+    Update README.md
+
+[33mcommit 59cdd16ab28f86006cb408707815a177646e17df[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Mon Jul 24 09:58:07 2017 -0400
+
+    remove an errant space
+
+[33mcommit ca2aa50718cf5dc918d1d8ebcce399a35ac81dce[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Mon Jul 24 09:45:48 2017 -0400
+
+    add a smidgen more direction in README
+
+[33mcommit 8a614985128cef55352489a7bb5935ff01c86a26[m
+Merge: b75be5e dbcceca
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Mon Jul 24 09:42:48 2017 -0400
+
+    Merge branch 'master' of https://github.com/FullstackAcademy/boilermaker
+
+[33mcommit b75be5e30134c6e662d3280fa9a0f7136d47e7e0[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Mon Jul 24 09:42:43 2017 -0400
+
+    log the error stack
+
+[33mcommit dbccecafe773f14579087bf4cccdcf41fd8b437e[m
+Author: Tom Kelly <tom@fullstackacademy.com>
+Date:   Sun Jul 23 19:03:41 2017 -0400
+
+    Specify fork
+
+[33mcommit eea664800b3ba95ee3fec27fcd033faf16d635dc[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Fri Jul 21 09:57:38 2017 -0400
+
+    add more direction on associations
+
+[33mcommit c87ea95f7990bf1c75288419948984c432df2b1f[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Thu Jul 20 14:01:03 2017 -0400
+
+    remove errant semi
+
+[33mcommit 76dd4f1af351736ece8efb09d8c49ecaa075b61c[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Thu Jul 20 13:39:20 2017 -0400
+
+    change error handler slightly
+
+[33mcommit 44ea0b15a2ddac4ea5807be3ab541cdadaf8ec0f[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Thu Jul 20 13:36:15 2017 -0400
+
+    remove stray semi
+
+[33mcommit 4eec6a06de00fa7bdb925119a8ce004abf6dbdc8[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Thu Jul 20 13:03:58 2017 -0400
+
+    add file loader
+
+[33mcommit b71697918fe4cd21aaf51f3b74332447efc2beef[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Wed Jul 19 15:53:14 2017 -0400
+
+    add deploy
+
+[33mcommit b01491f3c75bff6cdef4ce207d2893898697eeb3[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Wed Jul 19 15:01:15 2017 -0400
+
+    add sockets
+
+[33mcommit 532f5bd2fece1ddd327405bd6496560dad90c282[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Tue Jul 18 14:05:42 2017 -0400
+
+    update users
+
+[33mcommit cab6cc32bf1674cf291db4759ad3b2ba05ce89c7[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Tue Jul 18 12:41:31 2017 -0400
+
+    add deploy script
+
+[33mcommit 2299b4eaf54de69986c23ef0516c286b4037569e[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Tue Jul 18 12:31:51 2017 -0400
+
+    webpack to dependencies
+
+[33mcommit 1a69cc76a05df1268464cdac0fe96c1a4a2ae479[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Tue Jul 18 12:29:19 2017 -0400
+
+    make names lowercase
+
+[33mcommit a7b77205062a9e51e4479c98688445c66d382c63[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Tue Jul 18 12:20:43 2017 -0400
+
+    add heroku
+
+[33mcommit ab0c3443137d01178b2152f8ecff280e80de5c16[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Tue Jul 18 12:05:51 2017 -0400
+
+    update readme
+
+[33mcommit ea3fb57b859c7d0fd250c88c84f7f002afc292e0[m
+Merge: e92b711 25aecae
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Tue Jul 18 12:02:45 2017 -0400
+
+    Merge branch 'rr4-simpler'
+
+[33mcommit 25aecaef5c27530c1f4280d642ffbc8366d35ea8[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Tue Jul 18 12:02:39 2017 -0400
+
+    add some more comments
+
+[33mcommit a9bd19b163b6bdd2e8f13394dc81978ebcab3129[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Mon Jul 17 11:31:15 2017 -0400
+
+    added more comments
+
+[33mcommit 1c4f6601a53d6f5309428dd59acf3fa24a132816[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Fri Jul 14 17:38:56 2017 -0400
+
+    wrap up
+
+[33mcommit c6ef4c95234544e34bcfb29e6bc3f877920279c0[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Fri Jul 14 17:36:53 2017 -0400
+
+    wrap up
+
+[33mcommit b3a86ef9364157e32f019fe3fe0e5a7d8d161223[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Fri Jul 14 17:32:43 2017 -0400
+
+    one iterations
+
+[33mcommit 08791b4c4e5a3781f74d8574fb09a6c7405852c8[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Wed Jul 12 10:58:21 2017 -0400
+
+    saving
+
+[33mcommit b24cac622a0096f3ab4573812a660a78d5f9d3b8[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Tue Jul 11 14:40:50 2017 -0400
+
+    start adding more documentation
+
+[33mcommit bccd650c8915ad7ef9a45dc834c68b72fbedba4d[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Tue Jul 11 13:00:06 2017 -0400
+
+    move route to auth
+
+[33mcommit 6a88ef986abee40beb511d2d6b2ea5ef848f792d[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Tue Jul 11 12:52:53 2017 -0400
+
+    another bunch of changes
+
+[33mcommit e8e83e35b8ec38f3e8d4fde6e57b73e2e927b550[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Tue Jul 11 12:42:16 2017 -0400
+
+    saving
+
+[33mcommit e92b7112ffabd4ebdef30c80e6f19d66551f71fb[m
+Merge: ad8ed40 0a91a2b
+Author: Geoff Bass <geoff.c.bass@gmail.com>
+Date:   Fri Jun 9 11:29:17 2017 -0400
+
+    Merge pull request #2 from FullstackAcademy/revert-1-productionBuild
+    
+    Revert "Production build"
+
+[33mcommit 0a91a2bc42481833099540d531963685cfd54db9[m
+Author: Geoff Bass <geoff.c.bass@gmail.com>
+Date:   Fri Jun 9 11:27:35 2017 -0400
+
+    Revert "Production build"
+
+[33mcommit ad8ed406746c427ea7650922205ea3dd5eccf033[m
+Merge: 5d4b5b1 19be571
+Author: Geoff Bass <geoff.c.bass@gmail.com>
+Date:   Fri Jun 9 11:23:43 2017 -0400
+
+    Merge pull request #1 from geoffbass/productionBuild
+    
+    Production build
+
+[33mcommit 19be5714a0c9a2d54a3120c8324c26e7669d45c5[m
+Author: Geoff Bass <geoff.c.bass@gmail.com>
+Date:   Fri Jun 9 11:22:32 2017 -0400
+
+    move webpack into reg deps and add postinstall
+
+[33mcommit 518701bd5ba19f5f58ae1523d0a1abf4d813a811[m
+Author: Geoff Bass <geoff.c.bass@gmail.com>
+Date:   Fri Jun 9 10:31:12 2017 -0400
+
+    change start script for production
+
+[33mcommit 57114fcd36c4549072701b46282eb7edfb20f656[m
+Merge: 70440af 936c842
+Author: Geoff Bass <geoff.c.bass@gmail.com>
+Date:   Thu Jun 8 18:05:17 2017 -0400
+
+    Merge remote-tracking branch 'origin/temp'
+
+[33mcommit 936c842b68138f7958e761e147b7e6b16cdc74c0[m
+Author: Geoff Bass <geoff.c.bass@gmail.com>
+Date:   Thu Jun 8 18:04:03 2017 -0400
+
+    Create README.md
+
+[33mcommit 70440af5b93204c27f3696e8d8a8599895bcbf93[m
+Author: Geoff Bass <geoff.c.bass@gmail.com>
+Date:   Thu Jun 8 18:02:38 2017 -0400
+
+    update main header
+
+[33mcommit 06d0be037c383dba46558967c9130daa7d1f2178[m
+Author: Geoff Bass <geoff.c.bass@gmail.com>
+Date:   Thu Jun 8 15:37:54 2017 -0400
+
+    change package name to boilermade
+
+[33mcommit 1dc27864ada1ef1cfb63a1a00463733f8b2ef4cb[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Fri Jun 2 12:55:10 2017 -0400
+
+    minor linting
+
+[33mcommit e022a47ce478679d5a9eadab49aad4aaf49a530b[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Fri Jun 2 11:49:04 2017 -0400
+
+    death of the semicolons
+
+[33mcommit 3c27f1b6be5e1d66087496c9f2a6374defb47110[m
+Merge: b20c722 5d4b5b1
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Fri Jun 2 11:24:33 2017 -0400
+
+    merge in master
+
+[33mcommit 5d4b5b12a85a4ed85b0b3bbcce08889e5a3a5baf[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Fri Jun 2 11:24:01 2017 -0400
+
+    update indexhtml
+
+[33mcommit b20c7225f33b94208e229cb53470c87eb345846d[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Thu Jun 1 10:52:03 2017 -0400
+
+    seems to work
+
+[33mcommit 4085e4314db394bae45240d11648349961372c7f[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Wed May 17 17:42:08 2017 -0400
+
+    added stage 0
+
+[33mcommit aade62408b0d17e32ece7f2266542c54c1133ed8[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Wed May 17 17:39:55 2017 -0400
+
+    use babelrc
+
+[33mcommit c4b318dc70b63f5c3a66aba43f29c8563fc6893b[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Wed Apr 26 17:57:47 2017 -0400
+
+    fix to logout
+
+[33mcommit b0671d32c29b16374553ba139fb461fdadfeb2e2[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Wed Apr 26 17:55:13 2017 -0400
+
+    typo
+
+[33mcommit 9e867bea6ca9806ff0630279f0d18ff10492f32d[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Wed Apr 26 17:54:20 2017 -0400
+
+    saving
+
+[33mcommit e93fc1e8e80041380a7698b45bde205d03d09a9b[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Wed Apr 26 17:51:21 2017 -0400
+
+    update readme
+
+[33mcommit dc5c54d66d22e32175b9b93fe09c23a678c38406[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Tue Apr 25 18:10:35 2017 -0400
+
+    flesh out backend test examples
+
+[33mcommit bdea24e9d419850f44b32513c95c95ef5c6a7582[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Tue Apr 25 12:28:34 2017 -0400
+
+    update api users
+
+[33mcommit ddc399fb4137e9037285338c82c2df3cb9b7c243[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Tue Apr 25 12:19:37 2017 -0400
+
+    add prop types and tighten up
+
+[33mcommit cb950f28eab696e6f871107c23ca4b94870b7bfe[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Tue Apr 25 10:43:26 2017 -0400
+
+    started to add specs
+
+[33mcommit b74f339d7fabfa03d9ce19d91c451b0595deba18[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Mon Apr 24 15:33:56 2017 -0400
+
+    update server and add favicon
+
+[33mcommit 7809852a0baf9ddabd5fb7e6b42e1cbce2386c4f[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Tue Apr 18 17:22:49 2017 -0400
+
+    whoops jk
+
+[33mcommit c5fb041344aa6aec87003c0382525be983dee40b[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Tue Apr 18 17:20:08 2017 -0400
+
+    require secrects, always and forever
+
+[33mcommit fbcb083b5a11637ba4a6e10ebb710662bf6493cf[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Wed Feb 15 14:15:45 2017 -0500
+
+    add readme
+
+[33mcommit 0f32c910b312dd052a267d8b2f07d7b06d069b6d[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Wed Feb 15 14:08:23 2017 -0500
+
+    allownull false on user model
+
+[33mcommit da99f72123a6317922c5003f11a4ae9c3ab6cbfc[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Mon Feb 13 22:02:06 2017 -0500
+
+    update gitignore
+
+[33mcommit 03b87bbe85365796ef77de76ebb6a5b8a7a4e462[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Mon Feb 13 21:45:11 2017 -0500
+
+    add validation
+
+[33mcommit 1b7c9e96458027fe9c40c596b7ba670e9b279c60[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Mon Feb 13 21:15:52 2017 -0500
+
+    simplify auth
+
+[33mcommit 4828471c583b361db808fad7b6b560c5c2abe78a[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Mon Feb 13 20:26:26 2017 -0500
+
+    add source maps and some minimal styling
+
+[33mcommit 17dadfafa5a86fd9ffd7fea3e29837dbf2b41dcc[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Mon Feb 13 19:45:32 2017 -0500
+
+    clean up a bit
+
+[33mcommit 0753a3ce2b5a5c38cd1990de95fc0c92ec1dc5b8[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Mon Feb 13 17:38:27 2017 -0500
+
+    saving, added user home
+
+[33mcommit 8ba1df49a99fe9a3a1194a9cb1a0cc85c3e83fe5[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Mon Feb 13 14:40:06 2017 -0500
+
+    saving, most client
+
+[33mcommit 5de87d216f6996a60bb650bd0e0d1af16e1d82a9[m
+Author: Thomas Kelly <tmkelly28@gmail.com>
+Date:   Mon Feb 13 12:09:40 2017 -0500
+
+    first commit, server

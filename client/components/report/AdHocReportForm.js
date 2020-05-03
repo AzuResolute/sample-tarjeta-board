@@ -14,7 +14,8 @@ class AdHocReportForm extends Component {
       selectedLocal: 'MANNYUS',
       reportingPeriods: [],
       selectedReportingPeriod: 0,
-      selectedWeekNumber: 0
+      selectedWeekNumber: 0,
+      downloadOption: 'report-only'
     }
   }
 
@@ -37,18 +38,22 @@ class AdHocReportForm extends Component {
     const {
       selectedLocal,
       selectedReportingPeriod,
-      selectedWeekNumber
+      selectedWeekNumber,
+      downloadOption
     } = this.state
     if (mode === 'period') {
-      history.push(`/reports/adhoc/period/${selectedReportingPeriod}`)
+      history.push(
+        `/reports/adhoc/period/${selectedReportingPeriod}/${downloadOption}`
+      )
     } else if (mode === 'week') {
-      console.log(selectedWeekNumber)
-      history.push(`/reports/adhoc/week/${selectedLocal}@${selectedWeekNumber}`)
+      history.push(
+        `/reports/adhoc/week/${selectedLocal}@${selectedWeekNumber}/${downloadOption}`
+      )
     }
   }
 
-  handleChange = e => {
-    this.setState({
+  handleChange = async e => {
+    await this.setState({
       [e.target.name]: e.target.value
     })
   }
@@ -149,6 +154,26 @@ class AdHocReportForm extends Component {
     }
   }
 
+  downloadDropdown = () => {
+    return (
+      <Fragment>
+        <label
+          className="col-4 font-weight-bold text-right"
+          htmlFor="downloadOption"
+        >
+          Select Download Option
+        </label>
+        <GenericDropdown
+          defaultProperty="report-only"
+          handleChange={this.handleChange}
+          property="downloadOption"
+          options={['xlsx', 'report-only']}
+          labels={['Download in Excel file', 'None']}
+        />
+      </Fragment>
+    )
+  }
+
   render() {
     return (
       <Fragment>
@@ -169,6 +194,10 @@ class AdHocReportForm extends Component {
           <div className="row form-group form-check form-check-inline w-100">
             {this.secondDropdown()}
           </div>
+          <div className="row form-group form-check form-check-inline w-100">
+            {this.downloadDropdown()}
+          </div>
+
           <Row>
             <Button
               type="submit"

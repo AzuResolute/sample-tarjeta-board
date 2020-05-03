@@ -13,7 +13,7 @@ class ReportingNav extends Component {
       <NavDropdown title="Reports" id="nav-dropdown" size="lg">
         <NavDropdown.Item
           eventKey="4.2"
-          href="/reports/adhoc/period/current"
+          href="/reports/adhoc/period/current/report-only"
           disabled={worshipService.id === 0}
         >
           Current Service Report

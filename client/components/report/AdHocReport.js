@@ -229,19 +229,18 @@ class AdHocReport extends Component {
       selectedService,
       showEditAttendance
     } = this.state
-    const {selectionId} = this.props.match.params
+    const {selectionId, downloadOption} = this.props.match.params
     const {appInitialized} = this.props
 
     if (!appInitialized || attendance.length === 0) {
       return <div />
     }
 
-    console.log(this.state)
-
     let tabs = this.tabulizeAreaGroupAttendance()
     const tabNames = Object.keys(tabs)
     tabNames.unshift('ALL')
-    return !appInitialized ? (
+
+    return !appInitialized || Object.keys(attendance).length === 0 ? (
       <div />
     ) : (
       <Fragment>
@@ -253,10 +252,12 @@ class AdHocReport extends Component {
               return (
                 <Tab.Pane key={t} eventKey={t} title={t}>
                   <AdHocReportPane
+                    tab={t}
                     areaGroup={areaGroup}
                     localId={`${localId}${districtRegion}`}
                     selectionId={selectionId}
                     attendance={t === 'ALL' ? attendance : tabs[t]}
+                    downloadOption={downloadOption}
                     services={services}
                     handleSelectAttendance={this.handleSelectAttendance}
                   />

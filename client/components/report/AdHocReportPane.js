@@ -3,14 +3,39 @@ import {connect} from 'react-redux'
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
 import {faCaretDown} from '@fortawesome/free-solid-svg-icons'
 import {CFO} from '../../utils/board'
+import TableizeData from './util/TableizeData'
+import {adhocToExcelDownload} from './util/AdHocToExcel'
 
 class AdHocReportPane extends Component {
   constructor(props) {
     super(props)
 
     this.state = {
-      showDetails: false
+      showDetails: false,
+      table: {}
     }
+  }
+
+  componentDidMount = async () => {
+    const {tab, downloadOption} = this.props
+
+    if (tab === 'ALL' && downloadOption === 'xlsx') {
+      this.performExcelDownload()
+      console.log('Excel download functionality')
+    }
+  }
+
+  performExcelDownload = async () => {
+    const {attendance, locals, services} = this.props
+    const tableizer = await new TableizeData({
+      attendance,
+      locals,
+      services,
+      mode: this.isCurrentService()
+    })
+    const {table} = await tableizer
+    await adhocToExcelDownload(table)
+    this.setState({table})
   }
 
   isCurrentService = () => this.props.selectionId === 'current'
@@ -57,6 +82,7 @@ class AdHocReportPane extends Component {
     )
   }
 
+  // rework to utilize tablizer
   renderHeading = () => {
     const {showDetails} = this.state
     const {services} = this.props
@@ -129,6 +155,9 @@ class AdHocReportPane extends Component {
       </thead>
     )
   }
+
+  // push printable to redux
+  // Excel Export up top
 
   render() {
     const {showDetails} = this.state
